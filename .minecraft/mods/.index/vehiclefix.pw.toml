@@ -1,0 +1,14 @@
+name = "VehicleFix"
+filename = "vehiclefix-3.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oNRw3x5I/versions/3.4/vehiclefix-3.4.jar"
+hash-format = "sha512"
+hash = "fa84a1fc2f9cb49e6601d243137637dca84a3bff6858f6cdaa2f00da12d1d962e1f182a11a0b84471c072ee4e7bbaf768117916c8abf352fadc234e4244f0ee5"
+
+[update]
+[update.modrinth]
+mod-id = "oNRw3x5I"
+version = "LS4UPQJ9"

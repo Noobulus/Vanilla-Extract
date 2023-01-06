@@ -1,0 +1,14 @@
+name = "Custom Stars [Fabric]"
+filename = "custom-stars-1.1+1.19.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "871f69ef44ecb7be0f7e1c171a35ed881696ea96"
+
+[update]
+[update.curseforge]
+file-id = 3844744
+project-id = 411848

@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "yttr:substituted_redstone"
+    },
+    "block_in": "hay_block",
+    "post": [
+        {
+            "type": "place",
+            "block": "target"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.composter.ready block @a ~ ~ ~ 0.5 0.8"
+        }
+    ]
+}

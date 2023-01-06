@@ -1,0 +1,14 @@
+name = "Bookshelf"
+filename = "Bookshelf-Fabric-1.19.2-16.2.16.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c28294fea3ae6377490a5f9145feffe430c67b57"
+
+[update]
+[update.curseforge]
+file-id = 4153135
+project-id = 228525

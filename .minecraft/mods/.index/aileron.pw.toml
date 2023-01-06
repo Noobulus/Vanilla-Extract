@@ -1,0 +1,14 @@
+name = "Aileron"
+filename = "aileron-1.19-quilt-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/1.0.0-1.19-quilt/aileron-1.19-quilt-1.0.0.jar"
+hash-format = "sha512"
+hash = "346ab1ffde7f8fcd3d504aa8b333ea47b6f637ebfee1fd7be302d54b619abf019a3476ac5199f36d205eb410121dc0431ca798ff4a3aa3bc59c8e9ea184c98fc"
+
+[update]
+[update.modrinth]
+mod-id = "b8kG1VGq"
+version = "jHaNKotu"

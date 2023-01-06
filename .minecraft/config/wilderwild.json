@@ -1,0 +1,9 @@
+{
+  "modify_desert_placement": true,
+  "modify_badlands_placement": true,
+  "modify_windswept_savanna_placement": true,
+  "modify_jungle_placement": true,
+  "modify_swamp_placement": true,
+  "modify_mangrove_swamp_placement": true,
+  "mc_live_sensor_tendrils": false
+}

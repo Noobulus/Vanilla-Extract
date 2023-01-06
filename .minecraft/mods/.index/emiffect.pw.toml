@@ -1,0 +1,14 @@
+name = "EMIffect"
+filename = "emiffect-0.1.4+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/705gWllI/versions/5yr5Y911/emiffect-0.1.4%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "0a2b7efe6a0700f65835f48e80742a31841e697d6495e3f891c5d9b81cd9f358b268392f3340c8835de31a191eb39a7e834621ab3891ef9d5f115881fc404512"
+
+[update]
+[update.modrinth]
+mod-id = "705gWllI"
+version = "5yr5Y911"

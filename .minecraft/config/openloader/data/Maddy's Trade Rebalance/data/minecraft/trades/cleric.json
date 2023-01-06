@@ -1,0 +1,364 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:rotten_flesh",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:redstone"
+						},
+						"price": 1,
+						"count": 4,
+						"maxUses": 8,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:glow_ink_sac",
+						"price": 4,
+						"maxUses": 8,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:candle",
+						"price": 2,
+						"maxUses": 16,
+						"experience": 6,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:glass_bottle",
+						"price": 18,
+						"maxUses": 16,
+						"experience": 8,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:lapis_lazuli"
+						},
+						"price": 1,
+						"count": 2,
+						"maxUses": 8,
+						"experience": 12,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:ender_pearl"
+						},
+						"price": 3,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:glowstone_dust"
+						},
+						"price": 1,
+						"count": 4,
+						"maxUses": 16,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:gold_ingot",
+						"price": 2,
+						"maxUses": 8,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:spider_eye",
+						"price": 4,
+						"maxUses": 8,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:blaze_powder",
+						"price": 4,
+						"maxUses": 8,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:book",
+						"price": 4,
+						"maxUses": 8,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 4
+							},
+							{
+								"item": "minecraft:glass_bottle",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:night_vision"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:invisibility"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:leaping"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:swiftness"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:water_breathing"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:healing"
+									}]
+								}
+							]
+						}],
+						"trader_exp": 40,
+						"max_uses": 4,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:nether_wart",
+						"price": 8,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 8
+							},
+							{
+								"item": "minecraft:glass_bottle",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:long_night_vision"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:fire_resistance"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:strong_regeneration"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:strong_strength"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:long_water_breathing"
+									}]
+								},
+								{
+									"item": "minecraft:potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:strong_healing"
+									}]
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 8
+							},
+							{
+								"item": "minecraft:glass_bottle",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:splash_potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:strong_harming"
+									}]
+								},
+								{
+									"item": "minecraft:splash_potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:long_weakness"
+									}]
+								},
+								{
+									"item": "minecraft:splash_potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:long_poison"
+									}]
+								},
+								{
+									"item": "minecraft:splash_potion",
+									"quantity": 1,
+									"price_multiplier": 0.2,
+									"functions": [{
+										"function": "minecraft:set_potion",
+										"id": "minecraft:long_slowness"
+									}]
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"buy": "minecraft:amethyst_shard",
+						"price": 8,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

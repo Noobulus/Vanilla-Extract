@@ -1,0 +1,14 @@
+name = "QDResLoader"
+filename = "QDResLoader-1.2.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/8bvlUrBx/versions/somsk8Tr/QDResLoader-1.2.2.jar"
+hash-format = "sha512"
+hash = "882f4a865be4866dc804b05062d9f8bd13b19f654ed2f54903317fb04d8463ca97a97ae152be7b7560e948e1cac8c54a4a99b65dd9c03a69eacaeb76291ce376"
+
+[update]
+[update.modrinth]
+mod-id = "8bvlUrBx"
+version = "somsk8Tr"

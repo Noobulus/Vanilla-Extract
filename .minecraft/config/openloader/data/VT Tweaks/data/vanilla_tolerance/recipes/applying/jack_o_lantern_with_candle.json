@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "minecraft:candles"
+    },
+    "block_in": "carved_pumpkin",
+    "post": [
+        {
+            "type": "place",
+            "block": "jack_o_lantern"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.candle.place block @a ~ ~ ~"
+        }
+    ]
+}

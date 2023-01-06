@@ -1,0 +1,14 @@
+name = "Unstackabundles"
+filename = "unstackabundles-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/k8hFwW2N/versions/v1.0.1/unstackabundles-1.0.1.jar"
+hash-format = "sha512"
+hash = "ffc0b234b861a42812fdd6eadbb4b0ca35f4d7262b43b89be2aebd9e0ee4b769e8272cdd1d37ecdebc45288a5816d19059fc5a04e1979852b9397b047c72a624"
+
+[update]
+[update.modrinth]
+mod-id = "k8hFwW2N"
+version = "Byo5hvam"

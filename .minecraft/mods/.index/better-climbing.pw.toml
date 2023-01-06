@@ -1,0 +1,14 @@
+name = "Better Climbing"
+filename = "better_climbing-1.1.0-FABRIC.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZucWZEBV/versions/PGwVw42G/better_climbing-1.1.0-FABRIC.jar"
+hash-format = "sha512"
+hash = "a4acb5c917c5a318c2982dc6d703732d2cd940ec21aac7db6c0157218184532936f2dfd20cd2a6467204e89d55893afd440e8b1c0cd474b7692147bb97726338"
+
+[update]
+[update.modrinth]
+mod-id = "ZucWZEBV"
+version = "PGwVw42G"

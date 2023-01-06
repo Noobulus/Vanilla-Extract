@@ -1,0 +1,206 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:cod",
+						"price": 8,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:salmon",
+						"price": 6,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:charcoal",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:string",
+						"price": 16,
+						"maxUses": 12,
+						"experience": 5,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald"
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:cod_bucket"
+								},
+								{
+									"item": "minecraft:salmon_bucket"
+								}
+							]
+						}],
+						"trader_exp": 10,
+						"max_uses": 8,
+						"reward_exp": true
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:lily_pad"
+						},
+						"price": 1,
+						"count": 2,
+						"maxUses": 4,
+						"experience": 5,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:tropical_fish",
+						"price": 2,
+						"maxUses": 12,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:pufferfish",
+						"price": 2,
+						"maxUses": 12,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:bone_meal"
+						},
+						"price": 1,
+						"count": 12,
+						"maxUses": 8,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"item": "minecraft:cod",
+							"quantity": 16,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:cooked_cod",
+							"quantity": 12
+						}],
+						"trader_exp": 20,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:salmon",
+							"quantity": 12,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:cooked_salmon",
+							"quantity": 9
+						}],
+						"trader_exp": 20,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"buy": "minecraft:glow_ink_sac",
+						"price": 4,
+						"maxUses": 12,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:tropical_fish_bucket"
+						},
+						"price": 3,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"tool": {
+							"count": 1,
+							"id": "minecraft:fishing_rod"
+						},
+						"basePrice": 8,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellEnchantedToolFactory"
+					},
+					{
+						"buy": "minecraft:prismarine_shard",
+						"price": 6,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:nautilus_shell"
+						},
+						"price": 16,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

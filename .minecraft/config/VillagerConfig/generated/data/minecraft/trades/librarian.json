@@ -1,0 +1,174 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:paper",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 24
+            },
+            {
+              "type": "EnchantBookFactory",
+              "experience": 1
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 9,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:bookshelf"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:book",
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4
+            },
+            {
+              "type": "EnchantBookFactory",
+              "experience": 5
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 5,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:lantern"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:ink_sac",
+              "experience": 20,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 5
+            },
+            {
+              "type": "EnchantBookFactory",
+              "experience": 10
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 4,
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:glass"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:writable_book",
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 2
+            },
+            {
+              "type": "EnchantBookFactory",
+              "experience": 15
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 5,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:clock"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:compass"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 20,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:name_tag"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

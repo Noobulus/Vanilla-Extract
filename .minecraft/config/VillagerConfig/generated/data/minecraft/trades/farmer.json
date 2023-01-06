@@ -1,0 +1,246 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:wheat",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 20
+            },
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:potato",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 26
+            },
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:carrot",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 22
+            },
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:beetroot",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 15
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 6,
+              "experience": 1,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:bread"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:pumpkin",
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 6
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 4,
+              "experience": 5,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:pumpkin_pie"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 4,
+              "experience": 5,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:apple"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 18,
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:cookie"
+              }
+            },
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:melon",
+              "experience": 20,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4
+            },
+            {
+              "type": "ModItemListing",
+              "forSale": {
+                "count": 1,
+                "id": "minecraft:emerald"
+              },
+              "maxTrades": 16,
+              "price": {
+                "count": 15,
+                "id": "supplementaries:flax_seeds"
+              },
+              "price2": {
+                "count": 0,
+                "id": "minecraft:air"
+              },
+              "priceMult": 0.05,
+              "xp": 2
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:cake"
+              }
+            },
+            {
+              "type": "SellSuspiciousStewFactory",
+              "duration": 100,
+              "effect": "minecraft:night_vision",
+              "experience": 15,
+              "multiplier": 0.05
+            },
+            {
+              "type": "SellSuspiciousStewFactory",
+              "duration": 160,
+              "effect": "minecraft:jump_boost",
+              "experience": 15,
+              "multiplier": 0.05
+            },
+            {
+              "type": "SellSuspiciousStewFactory",
+              "duration": 140,
+              "effect": "minecraft:weakness",
+              "experience": 15,
+              "multiplier": 0.05
+            },
+            {
+              "type": "SellSuspiciousStewFactory",
+              "duration": 120,
+              "effect": "minecraft:blindness",
+              "experience": 15,
+              "multiplier": 0.05
+            },
+            {
+              "type": "SellSuspiciousStewFactory",
+              "duration": 280,
+              "effect": "minecraft:poison",
+              "experience": 15,
+              "multiplier": 0.05
+            },
+            {
+              "type": "SellSuspiciousStewFactory",
+              "duration": 7,
+              "effect": "minecraft:saturation",
+              "experience": 15,
+              "multiplier": 0.05
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 3,
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:golden_carrot"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 3,
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:glistering_melon_slice"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

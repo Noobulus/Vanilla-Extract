@@ -1,0 +1,404 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 6,
+				"trades": [{
+						"wants": [{
+							"choice": [{
+									"item": "minecraft:campfire",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:torch",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:bread",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:iron_ingot",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:dirt",
+									"quantity": 64
+								}
+							]
+						}],
+						"gives": [{
+							"item": "minecraft:emerald"
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:allium",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:azure_bluet",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:blue_orchid",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:cornflower",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:dandelion",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:lily_of_the_valley",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:orange_tulip",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:oxeye_daisy",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:pink_tulip",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:poppy",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:red_tulip",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:white_tulip",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:sunflower",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:lilac",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:rose_bush",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:peony",
+									"quantity": 2
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:wheat_seeds",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:beetroot_seeds",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:pumpkin_seeds",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:melon_seeds",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:carrot",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:potato",
+									"quantity": 4
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:oak_sapling",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:spruce_sapling",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:birch_sapling",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:jungle_sapling",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:acacia_sapling",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:dark_oak_sapling",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:mangrove_propagule",
+									"quantity": 4
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:fern",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:sugar_cane",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:vine",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:lily_pad",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:small_dripleaf",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:cactus",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:bamboo",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:sweet_berries",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:glow_berries",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:cocoa_beans",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:sea_pickle",
+									"quantity": 4
+								},
+								{
+									"item": "minecraft:kelp",
+									"quantity": 4
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:pointed_dripstone",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:moss_block",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:red_sand",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:sand",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:podzol",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:rooted_dirt",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:brain_coral_block",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:bubble_coral_block",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:fire_coral_block",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:horn_coral_block",
+									"quantity": 8
+								},
+								{
+									"item": "minecraft:tube_coral_block",
+									"quantity": 8
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 1,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:slime_ball"
+						},
+						"price": 2,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:gunpowder"
+						},
+						"price": 1,
+						"count": 2,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:ice"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:snowball"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:axolotl_bucket"
+						},
+						"price": 8,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:tadpole_bucket"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:nautilus_shell"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		}
+	]
+}

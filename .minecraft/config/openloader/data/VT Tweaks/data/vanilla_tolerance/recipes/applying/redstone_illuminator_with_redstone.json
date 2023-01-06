@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "yttr:substituted_redstone"
+    },
+    "block_in": "sea_lantern",
+    "post": [
+        {
+            "type": "place",
+            "block": "supplementaries:redstone_illuminator"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.stone.place block @a ~ ~ ~ 1 0.8"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+name = "Project: Save the Pets!"
+filename = "projectsavethepets-3.2.0+2022.e000b2a529.quilt.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/VJ6H5k8J/versions/3.2.0%2B2022.e000b2a529.quilt/projectsavethepets-3.2.0%2B2022.e000b2a529.quilt.jar"
+hash-format = "sha512"
+hash = "e17dc489024e0b0320efc7a7217da59e531c7f71f6fd2c115f938afeddca3e0111d0ff86150705dbeb4a7e51975a9de0790b2b9f14d25cc4b295206bdb78964e"
+
+[update]
+[update.modrinth]
+mod-id = "VJ6H5k8J"
+version = "M6jNmDTz"

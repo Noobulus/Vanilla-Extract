@@ -1,0 +1,10 @@
+addDropsDirectlyToInventory = false
+addDropsDirectlyToInventoryForFakePlayers = false
+allowBoneMealOnSaplings = true
+allowBoneMealOnVines = true
+allowBoneMealOnSugarCanes = true
+compressedBoneMealPower = 2
+extremelyCompressedBoneMealPower = 4
+floristsBoneMealMaxFlowers = 5
+floristsBoneMealMaxRange = 2
+flowerBlocks = ["minecraft:poppy", "minecraft:dandelion", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:red_tulip", "minecraft:orange_tulip", "minecraft:white_tulip", "minecraft:pink_tulip", "minecraft:oxeye_daisy", "minecraft:rose_bush", "minecraft:peony", "minecraft:lilac", "minecraft:sunflower", "minecraft:cornflower", "minecraft:lily_of_the_valley", "minecraft:fern", "farmersdelight:wild_cabbages", "farmersdelight:wild_onions", "farmersdelight:wild_tomatoes", "farmersdelight:wild_carrots", "farmersdelight:wild_potatoes", "farmersdelight:wild_beetroots", "farmersdelight:wild_rice", "wilderwild:carnation", "wilderwild:seedling_dandelion", "wilderwild:glory_of_the_snow", "wilderwild:datura", "wilderwild:milkweed", "wilderwild:cattail", "supplementaries:wild_flax"]

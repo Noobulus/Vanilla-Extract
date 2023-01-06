@@ -1,0 +1,355 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:wheat",
+						"price": 24,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:white_wool",
+						"price": 12,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"map": {
+							"plains": "minecraft:oak_fence",
+							"taiga": "minecraft:spruce_fence",
+							"snow": "minecraft:spruce_fence",
+							"desert": "minecraft:jungle_fence",
+							"jungle": "minecraft:jungle_fence",
+							"savanna": "minecraft:acacia_fence",
+							"swamp": "minecraft:dark_oak_fence"
+						},
+						"count": 24,
+						"maxUses": 8,
+						"experience": 4,
+						"type": "TypeAwareBuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"item": "minecraft:emerald"
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:white_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:orange_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:magenta_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:light_blue_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:yellow_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:lime_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:pink_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:gray_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:light_gray_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:cyan_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:purple_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:blue_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:green_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:red_wool",
+									"quantity": 6
+								},
+								{
+									"item": "minecraft:black_wool",
+									"quantity": 6
+								}
+							]
+						}],
+						"trader_exp": 10,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:painting"
+						},
+						"price": 1,
+						"count": 10,
+						"maxUses": 4,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"choice": [{
+									"item": "minecraft:white_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:orange_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:magenta_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:light_blue_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:yellow_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:lime_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:pink_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:gray_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:light_gray_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:cyan_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:purple_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:blue_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:green_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:red_dye",
+									"quantity": 16
+								},
+								{
+									"item": "minecraft:black_dye",
+									"quantity": 16
+								}
+							],
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:emerald"
+						}],
+						"trader_exp": 15,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald"
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:white_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:orange_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:magenta_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:light_blue_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:yellow_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:lime_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:pink_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:gray_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:light_gray_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:cyan_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:purple_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:blue_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:green_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:red_banner",
+									"quantity": 3
+								},
+								{
+									"item": "minecraft:black_banner",
+									"quantity": 3
+								}
+							]
+						}],
+						"trader_exp": 20,
+						"max_uses": 8,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:name_tag"
+						},
+						"price": 6,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 40,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:bone",
+						"price": 8,
+						"maxUses": 4,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:lead"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:mutton"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 16,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald"
+						}],
+						"gives": [{
+							"item": "minecraft:goat_horn",
+							"quantity": 1,
+							"functions": [{
+								"function": "minecraft:set_instrument",
+								"options": "#minecraft:goat_horns"
+							}]
+						}],
+						"trader_exp": 0,
+						"max_uses": 2,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

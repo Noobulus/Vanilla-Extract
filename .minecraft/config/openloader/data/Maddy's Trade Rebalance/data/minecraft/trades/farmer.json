@@ -1,0 +1,260 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:wheat",
+						"price": 24,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:beetroot",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:carrot",
+						"price": 24,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:potato",
+						"price": 24,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:bread"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 16,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:pumpkin",
+						"price": 4,
+						"maxUses": 16,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:apple"
+						},
+						"price": 1,
+						"count": 6,
+						"maxUses": 8,
+						"experience": 6,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:bone_meal",
+						"price": 24,
+						"maxUses": 16,
+						"experience": 6,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:melon",
+						"price": 3,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 2,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:glass_bottle",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"item": "minecraft:honey_bottle"
+						}],
+						"trader_exp": 10,
+						"max_uses": 8,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald"
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:mushroom_stew",
+									"quantity": 1
+								},
+								{
+									"item": "minecraft:beetroot_soup",
+									"quantity": 1
+								}
+							]
+						}],
+						"trader_exp": 15,
+						"max_uses": 8,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:cake"
+						},
+						"price": 1,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:suspicious_stew",
+							"quantity": 1,
+							"functions": [{
+								"function": "minecraft:set_stew_effect",
+								"effects": [{
+										"type": "minecraft:night_vision",
+										"duration": 30
+									},
+									{
+										"type": "minecraft:jump_boost",
+										"duration": 15
+									},
+									{
+										"type": "minecraft:regeneration",
+										"duration": 10
+									},
+									{
+										"type": "minecraft:speed",
+										"duration": 30
+									},
+									{
+										"type": "minecraft:saturation",
+										"duration": 4
+									}
+								]
+							}]
+						}],
+						"trader_exp": 20,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"buy": "minecraft:sweet_berries",
+						"price": 24,
+						"maxUses": 12,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 4,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:bucket",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"item": "minecraft:milk_bucket",
+							"quantity": 1
+						}],
+						"trader_exp": 0,
+						"max_uses": 8,
+						"reward_exp": true
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:egg"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"wants": [{
+							"item": "minecraft:beehive",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:emerald",
+							"quantity": 4
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

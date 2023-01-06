@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "block_in": "campfire",
+    "post": [
+        {
+            "type": "place",
+            "block": "soul_campfire"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:particle.soul_escape block @a ~ ~ ~ 2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "types": {
+    "wood_type": {
+      "architects_palette.twisted": true,
+      "wilderwild.baobab": true,
+      "wilderwild.cypress": true
+    },
+    "leaves_type": {
+      "architects_palette.twisted": true,
+      "wilderwild.baobab": true,
+      "wilderwild.cypress": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "architects_palette.railing": true,
+      "architects_palette.boards": true
+    },
+    "leaves_type": {}
+  }
+}

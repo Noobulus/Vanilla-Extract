@@ -1,0 +1,244 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:chainmail_boots"
+						},
+						"price": 2,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 5,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:chainmail_leggings"
+						},
+						"price": 3,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 5,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:charcoal",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:chainmail_helmet"
+						},
+						"price": 2,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:chainmail_chestplate"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:iron_ingot",
+						"price": 2,
+						"maxUses": 16,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_boots"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 25,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_leggings"
+						},
+						"price": 6,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 25,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:bell"
+						},
+						"price": 24,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:calcite",
+						"price": 16,
+						"maxUses": 8,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_helmet"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 25,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_chestplate"
+						},
+						"price": 8,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 25,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"id": "minecraft:shield",
+							"count": 1
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"wants": [{
+							"item": "minecraft:lava_bucket",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:emerald",
+							"quantity": 4
+						}],
+						"trader_exp": 20,
+						"max_uses": 8,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:diamond_boots"
+						},
+						"price": 16,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:diamond_leggings"
+						},
+						"price": 24,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:diamond_helmet"
+						},
+						"price": 16,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:diamond_chestplate"
+						},
+						"price": 32,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

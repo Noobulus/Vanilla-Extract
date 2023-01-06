@@ -1,0 +1,14 @@
+name = "NBT Crafting"
+filename = "nbtcrafting-2.2.3+mc1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/18ztUZP5/versions/YqhR41Oh/nbtcrafting-2.2.3%2Bmc1.19.jar"
+hash-format = "sha512"
+hash = "8a7c9749ce72d0635df53e28075d30ce667967d75db0b20c4ca1541570454b6b9a404734fcc6934fe781a6c4c53475e5fc3ff6408302fbf45a07a65a5e26ae66"
+
+[update]
+[update.modrinth]
+mod-id = "18ztUZP5"
+version = "YqhR41Oh"

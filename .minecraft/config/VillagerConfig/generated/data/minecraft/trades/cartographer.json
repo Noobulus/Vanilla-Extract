@@ -1,0 +1,327 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:paper",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 24
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 7,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:map"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:glass_pane",
+              "experience": 10,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 11
+            },
+            {
+              "type": "SellMapFactory",
+              "experience": 5,
+              "iconType": "MONUMENT",
+              "maxUses": 12,
+              "nameKey": "filled_map.monument",
+              "price": 13,
+              "structure": "minecraft:on_ocean_explorer_maps"
+            },
+            {
+              "type": "RandomAdventureMapTrade"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:compass",
+              "experience": 20,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1
+            },
+            {
+              "type": "SellMapFactory",
+              "experience": 10,
+              "iconType": "MANSION",
+              "maxUses": 12,
+              "nameKey": "filled_map.mansion",
+              "price": 14,
+              "structure": "minecraft:on_woodland_explorer_maps"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 7,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:item_frame"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:white_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:blue_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:light_blue_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:red_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:pink_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:green_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:lime_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:gray_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:black_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:purple_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:magenta_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:cyan_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:brown_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:yellow_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:orange_banner"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 15,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:light_gray_banner"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 8,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:globe_banner_pattern"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

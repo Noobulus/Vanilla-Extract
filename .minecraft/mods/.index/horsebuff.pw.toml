@@ -1,0 +1,14 @@
+name = "Horse Buff"
+filename = "HorseBuff-1.19.3-2.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IrrG0G8l/versions/hNJDZGH6/HorseBuff-1.19.3-2.0.2.jar"
+hash-format = "sha512"
+hash = "9405b6d7e6f4b51d068def7328efe2da686f201a1e3d18679fb71a05141517729b2c4e467e69269707ca79646ad8d11153863fce4afc502e20e5980c7b3211aa"
+
+[update]
+[update.modrinth]
+mod-id = "IrrG0G8l"
+version = "hNJDZGH6"

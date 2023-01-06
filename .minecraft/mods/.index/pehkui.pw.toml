@@ -1,0 +1,14 @@
+name = "Pehkui"
+filename = "Pehkui-3.6.2+1.14.4-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/IFmJuF78/Pehkui-3.6.2%2B1.14.4-1.19.3.jar"
+hash-format = "sha512"
+hash = "f54664c2d1d1953429d774ce5d0fdff1ad9a4139e6723d40248c546fdd1d869d7b126b5ea7f7036cc01a07fdb296e2ba634327366d990ff322426f1af5c9c2ff"
+
+[update]
+[update.modrinth]
+mod-id = "t5W7Jfwy"
+version = "IFmJuF78"

@@ -1,0 +1,14 @@
+name = "Simple Fog Control"
+filename = "simplefog-1.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Glp1bwYc/versions/2NINyQSm/simplefog-1.3.1.jar"
+hash-format = "sha512"
+hash = "5704a2047490eb33e7fe806686a3be8ccb288b65991c4b55b8f3a374d8d17afc3f55901f6d5833263ebc314c986ce387d161031f7d44f6e3c5a846209c2c3427"
+
+[update]
+[update.modrinth]
+mod-id = "Glp1bwYc"
+version = "2NINyQSm"

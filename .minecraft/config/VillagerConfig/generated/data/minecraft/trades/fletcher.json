@@ -1,0 +1,187 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:stick",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 32
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 16,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:arrow"
+              }
+            },
+            {
+              "type": "ProcessItemFactory",
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1,
+              "secondBuy": {
+                "count": 1,
+                "id": "minecraft:gravel"
+              },
+              "secondCount": 10,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:flint"
+              },
+              "sellCount": 10
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:flint",
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 26
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 5,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 2,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:bow",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:string",
+              "experience": 20,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 14
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:crossbow",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:feather",
+              "experience": 30,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 24
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 2,
+              "experience": 15,
+              "maxUses": 3,
+              "multiplier": 0.05,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:bow",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:tripwire_hook",
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 8
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 3,
+              "experience": 15,
+              "maxUses": 3,
+              "multiplier": 0.05,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:crossbow",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellPotionHoldingItemFactory",
+              "experience": 30,
+              "maxUses": 12,
+              "price": 2,
+              "priceMultiplier": 0.05,
+              "secondBuy": "minecraft:arrow",
+              "secondCount": 5,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:tipped_arrow"
+              },
+              "sellCount": 5
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

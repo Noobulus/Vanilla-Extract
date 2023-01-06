@@ -1,0 +1,187 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:string",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 20
+            },
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:coal",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 10
+            },
+            {
+              "type": "ProcessItemFactory",
+              "experience": 1,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 1,
+              "secondBuy": {
+                "count": 1,
+                "id": "minecraft:cod"
+              },
+              "secondCount": 6,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:cooked_cod"
+              },
+              "sellCount": 6
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 3,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:cod_bucket"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:cod",
+              "experience": 10,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 15
+            },
+            {
+              "type": "ProcessItemFactory",
+              "experience": 5,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 1,
+              "secondBuy": {
+                "count": 1,
+                "id": "minecraft:salmon"
+              },
+              "secondCount": 6,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:cooked_salmon"
+              },
+              "sellCount": 6
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 5,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 2,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:campfire"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:salmon",
+              "experience": 20,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 13
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 3,
+              "experience": 10,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:fishing_rod",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:tropical_fish",
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 6
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:pufferfish",
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4
+            },
+            {
+              "type": "TypeAwareBuyForOneEmeraldFactory",
+              "count": 1,
+              "experience": 30,
+              "map": {
+                "desert": "minecraft:jungle_boat",
+                "jungle": "minecraft:jungle_boat",
+                "plains": "minecraft:oak_boat",
+                "savanna": "minecraft:acacia_boat",
+                "snow": "minecraft:spruce_boat",
+                "swamp": "minecraft:dark_oak_boat",
+                "taiga": "minecraft:spruce_boat"
+              },
+              "maxUses": 12
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

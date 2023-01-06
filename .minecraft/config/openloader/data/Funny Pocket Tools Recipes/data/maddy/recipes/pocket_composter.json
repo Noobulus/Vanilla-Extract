@@ -1,0 +1,9 @@
+{
+	"type": "lib39:piston_smashing",
+	"input": { "block": "minecraft:composter" },
+	"catalysts": [
+		{ "block": "minecraft:diamond_block" },
+		{ "block": "minecraft:diamond_block" }
+	],
+	"output": { "item": "pockettools:pocket_composter" }
+}

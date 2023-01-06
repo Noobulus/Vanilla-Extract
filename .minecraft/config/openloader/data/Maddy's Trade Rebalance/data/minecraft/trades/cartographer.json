@@ -1,0 +1,261 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:paper",
+						"price": 32,
+						"maxUses": 8,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:map"
+						},
+						"price": 1,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:glass",
+						"price": 16,
+						"maxUses": 8,
+						"experience": 8,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:ink_sac",
+						"price": 6,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"item": "minecraft:compass",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:emerald",
+							"quantity": 3
+						}],
+						"trader_exp": 20,
+						"max_uses": 8,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald"
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:white_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:orange_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:magenta_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:light_blue_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:yellow_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:lime_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:pink_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:gray_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:light_gray_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:cyan_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:purple_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:blue_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:green_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:red_banner",
+									"quantity": 2
+								},
+								{
+									"item": "minecraft:black_banner",
+									"quantity": 2
+								}
+							]
+						}],
+						"trader_exp": 10,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 16,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:compass",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"item": "minecraft:map",
+							"quantity": 1,
+							"functions": [{
+									"function": "minecraft:exploration_map",
+									"destination": "minecraft:on_ocean_explorer_maps",
+									"decoration": "monument",
+									"skip_existing_chunks": false,
+									"zoom": 1
+								},
+								{
+									"function": "minecraft:set_name",
+									"name": {
+										"translate": "filled_map.monument"
+									}
+								}
+							]
+						}],
+						"trader_exp": 20,
+						"max_uses": 4,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:glow_ink_sac",
+						"price": 4,
+						"maxUses": 16,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:item_frame",
+						"price": 2,
+						"maxUses": 16,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+								"item": "minecraft:map",
+								"quantity": 1,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:white_banner",
+								"quantity": 1,
+								"functions": [{
+									"function": "minecraft:set_nbt",
+									"tag": "{HideFlags: 32, display: {Name: \"{\\\"color\\\":\\\"gold\\\",\\\"translate\\\":\\\"block.minecraft.ominous_banner\\\"}\"}, BlockEntityTag: {id: \"minecraft:banner\", Patterns: [{Pattern: \"mr\", Color: 9}, {Pattern: \"bs\", Color: 8}, {Pattern: \"cs\", Color: 7}, {Pattern: \"bo\", Color: 8}, {Pattern: \"ms\", Color: 15}, {Pattern: \"hh\", Color: 8}, {Pattern: \"mc\", Color: 8}, {Pattern: \"bo\", Color: 15}]}}"
+								}],
+								"price_multiplier": 0.2
+							}
+						],
+						"gives": [{
+							"item": "minecraft:map",
+							"quantity": 1,
+							"functions": [{
+									"function": "minecraft:exploration_map",
+									"destination": "minecraft:on_woodland_explorer_maps",
+									"decoration": "mansion",
+									"skip_existing_chunks": false,
+									"zoom": 1
+								},
+								{
+									"function": "minecraft:set_name",
+									"name": {
+										"translate": "filled_map.mansion"
+									}
+								}
+							]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:totem_of_undying",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:globe_banner_pattern",
+							"quantity": 1
+						}],
+						"trader_exp": 0,
+						"max_uses": 2,
+						"reward_exp": true
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

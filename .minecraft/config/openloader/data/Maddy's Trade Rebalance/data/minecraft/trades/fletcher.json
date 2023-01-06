@@ -1,0 +1,288 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"item": "minecraft:gravel",
+							"quantity": 16,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:flint",
+							"quantity": 8
+						}],
+						"trader_exp": 2,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:stick",
+							"quantity": 64,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:arrow",
+							"quantity": 16
+						}],
+						"trader_exp": 2,
+						"max_uses": 8,
+						"reward_exp": true
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:target"
+						},
+						"price": 2,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:bow"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:spectral_arrow"
+						},
+						"price": 2,
+						"count": 4,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:flint",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:string",
+						"price": 8,
+						"maxUses": 16,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:crossbow"
+						},
+						"price": 6,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:feather",
+						"price": 8,
+						"maxUses": 16,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"tool": {
+							"count": 1,
+							"id": "minecraft:bow"
+						},
+						"basePrice": 8,
+						"maxUses": 2,
+						"experience": 40,
+						"multiplier": 0.05,
+						"type": "SellEnchantedToolFactory"
+					},
+					{
+						"buy": "minecraft:tripwire_hook",
+						"price": 4,
+						"maxUses": 8,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 4,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:splash_potion",
+								"quantity": 1,
+								"price_multiplier": 0.2,
+								"functions": [{
+									"function": "minecraft:set_potion",
+									"id": "minecraft:strong_harming"
+								}]
+							}
+						],
+						"gives": [{
+							"item": "minecraft:tipped_arrow",
+							"quantity": 16,
+							"functions": [{
+								"function": "minecraft:set_potion",
+								"id": "minecraft:strong_harming"
+							}]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 4,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:splash_potion",
+								"quantity": 1,
+								"price_multiplier": 0.2,
+								"functions": [{
+									"function": "minecraft:set_potion",
+									"id": "minecraft:long_weakness"
+								}]
+							}
+						],
+						"gives": [{
+							"item": "minecraft:tipped_arrow",
+							"quantity": 16,
+							"functions": [{
+								"function": "minecraft:set_potion",
+								"id": "minecraft:long_weakness"
+							}]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 4,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:splash_potion",
+								"quantity": 1,
+								"price_multiplier": 0.2,
+								"functions": [{
+									"function": "minecraft:set_potion",
+									"id": "minecraft:long_poison"
+								}]
+							}
+						],
+						"gives": [{
+							"item": "minecraft:tipped_arrow",
+							"quantity": 16,
+							"functions": [{
+								"function": "minecraft:set_potion",
+								"id": "minecraft:long_poison"
+							}]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald",
+								"quantity": 4,
+								"price_multiplier": 0.2
+							},
+							{
+								"item": "minecraft:splash_potion",
+								"quantity": 1,
+								"price_multiplier": 0.2,
+								"functions": [{
+									"function": "minecraft:set_potion",
+									"id": "minecraft:long_slowness"
+								}]
+							}
+						],
+						"gives": [{
+							"item": "minecraft:tipped_arrow",
+							"quantity": 16,
+							"functions": [{
+								"function": "minecraft:set_potion",
+								"id": "minecraft:long_slowness"
+							}]
+						}],
+						"trader_exp": 0,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"buy": "minecraft:spyglass",
+						"price": 1,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"tool": {
+							"count": 1,
+							"id": "minecraft:crossbow"
+						},
+						"basePrice": 8,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellEnchantedToolFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

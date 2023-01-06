@@ -1,0 +1,147 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:leather",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 6
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 1,
+              "maxUses": 12,
+              "price": 3,
+              "sell": "minecraft:leather_leggings"
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 1,
+              "maxUses": 12,
+              "price": 7,
+              "sell": "minecraft:leather_chestplate"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:flint",
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 26
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 5,
+              "maxUses": 12,
+              "price": 5,
+              "sell": "minecraft:leather_helmet"
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 5,
+              "maxUses": 12,
+              "price": 4,
+              "sell": "minecraft:leather_boots"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:rabbit_hide",
+              "experience": 20,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 9
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 1,
+              "maxUses": 12,
+              "price": 7,
+              "sell": "minecraft:leather_chestplate"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:scute",
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 15,
+              "maxUses": 12,
+              "price": 6,
+              "sell": "minecraft:leather_horse_armor"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.2,
+              "price": 6,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:saddle"
+              }
+            },
+            {
+              "type": "SellDyedArmorFactory",
+              "experience": 30,
+              "maxUses": 12,
+              "price": 5,
+              "sell": "minecraft:leather_helmet"
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

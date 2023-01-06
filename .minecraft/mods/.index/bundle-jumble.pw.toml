@@ -1,0 +1,14 @@
+name = "Bundle Jumble"
+filename = "bundle_jumble-1.0.0-mc1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DPswGlhM/versions/1.0.0-mc1.19/bundle_jumble-1.0.0-mc1.19.jar"
+hash-format = "sha512"
+hash = "c6788fa2b9c52ea8494412937dbe4c593a1adc2a88b6b06d96d244847ce86d90aea5e7b7273274119339a15b0ed549990395dd9430852afbb74cdcd9163c3a28"
+
+[update]
+[update.modrinth]
+mod-id = "DPswGlhM"
+version = "TUlY0Buy"

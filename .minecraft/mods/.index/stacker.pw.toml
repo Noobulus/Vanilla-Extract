@@ -1,0 +1,14 @@
+name = "Stacker"
+filename = "stacker-3.0.2-1.19.x.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2f0d5f20510f2678c5aabdc28165634ecd30f63a"
+
+[update]
+[update.curseforge]
+file-id = 3918819
+project-id = 515415

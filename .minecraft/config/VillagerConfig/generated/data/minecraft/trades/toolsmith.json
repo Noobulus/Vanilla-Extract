@@ -1,0 +1,235 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:coal",
+              "experience": 2,
+              "maxUses": 16,
+              "multiplier": 0.05,
+              "price": 15
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.2,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:stone_axe",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.2,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:stone_shovel",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.2,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:stone_pickaxe",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 1,
+              "maxUses": 12,
+              "multiplier": 0.2,
+              "price": 1,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:stone_hoe",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:iron_ingot",
+              "experience": 10,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 4
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 5,
+              "maxUses": 12,
+              "multiplier": 0.2,
+              "price": 36,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:bell"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 10
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:flint",
+              "experience": 20,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 30
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 1,
+              "experience": 10,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:iron_axe",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 2,
+              "experience": 10,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:iron_shovel",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 3,
+              "experience": 10,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:iron_pickaxe",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellItemFactory",
+              "count": 1,
+              "experience": 10,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "price": 4,
+              "sell": {
+                "count": 1,
+                "id": "minecraft:diamond_hoe",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 70
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "BuyForOneEmeraldFactory",
+              "buy": "minecraft:diamond",
+              "experience": 30,
+              "maxUses": 12,
+              "multiplier": 0.05,
+              "price": 1
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 12,
+              "experience": 15,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:diamond_axe",
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 5,
+              "experience": 15,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:diamond_shovel",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 150
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "type": "SellEnchantedToolFactory",
+              "basePrice": 13,
+              "experience": 30,
+              "maxUses": 3,
+              "multiplier": 0.2,
+              "tool": {
+                "count": 1,
+                "id": "minecraft:diamond_pickaxe",
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 250
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:clay_ball",
+						"price": 8,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:brick"
+						},
+						"price": 1,
+						"count": 12,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:flower_pot"
+						},
+						"price": 1,
+						"count": 4,
+						"maxUses": 8,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:stone",
+						"price": 32,
+						"maxUses": 16,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:stone_bricks"
+						},
+						"price": 1,
+						"count": 48,
+						"maxUses": 4,
+						"experience": 6,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:terracotta"
+						},
+						"price": 1,
+						"count": 32,
+						"maxUses": 4,
+						"experience": 6,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"choice": [{
+									"item": "minecraft:granite",
+									"quantity": 24
+								},
+								{
+									"item": "minecraft:andesite",
+									"quantity": 24
+								},
+								{
+									"item": "minecraft:diorite",
+									"quantity": 24
+								}
+							],
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:emerald"
+						}],
+						"trader_exp": 15,
+						"max_uses": 16,
+						"reward_exp": true
+					},
+					{
+						"wants": [{
+							"item": "minecraft:emerald",
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"choice": [{
+									"item": "minecraft:polished_granite",
+									"quantity": 24
+								},
+								{
+									"item": "minecraft:polished_andesite",
+									"quantity": 24
+								},
+								{
+									"item": "minecraft:polished_diorite",
+									"quantity": 24
+								}
+							]
+						}],
+						"trader_exp": 20,
+						"max_uses": 4,
+						"reward_exp": true
+					},
+					{
+						"buy": "minecraft:deepslate",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:quartz_block"
+						},
+						"price": 1,
+						"count": 4,
+						"maxUses": 8,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:quartz",
+						"price": 8,
+						"maxUses": 16,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:deepslate"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 16,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:blackstone",
+						"price": 12,
+						"maxUses": 16,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:obsidian",
+						"price": 4,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:dripstone_block"
+						},
+						"price": 1,
+						"count": 16,
+						"maxUses": 4,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

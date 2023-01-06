@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "immersive_weathering:moss_clump"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "fertilization:extremely_compressed_bonemeal"
+  }
+}

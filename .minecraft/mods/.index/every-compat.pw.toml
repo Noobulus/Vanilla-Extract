@@ -1,0 +1,14 @@
+name = "Every Compat"
+filename = "everycomp-1.19.2-2.2.2-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4f7339d855de1d529b0005d39c79417c838eb708"
+
+[update]
+[update.curseforge]
+file-id = 4264398
+project-id = 628539

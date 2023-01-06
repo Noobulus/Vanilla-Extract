@@ -1,0 +1,32 @@
+{
+  "block.rope.break": {
+    "sounds": [
+      "supplementaries:block/rope_break_0",
+      "supplementaries:block/rope_break_1",
+      "supplementaries:block/rope_break_2",
+      "supplementaries:block/rope_break_3"
+    ]
+  },
+  "block.rope.place": {
+    "sounds": [
+      "supplementaries:block/rope_place_0",
+      "supplementaries:block/rope_place_1",
+      "supplementaries:block/rope_place_2",
+      "supplementaries:block/rope_place_3"
+    ]
+  },
+  "block.rope.slide": {
+    "subtitle": "subtitle.supplementaries.rope.slide",
+    "sounds": [
+      "supplementaries:block/rope_slide"
+    ]
+  },
+  "block.rope.step": {
+    "sounds": [
+      "supplementaries:block/rope_step_0",
+      "supplementaries:block/rope_step_1",
+      "supplementaries:block/rope_step_2",
+      "supplementaries:block/rope_step_3"
+    ]
+  }
+}

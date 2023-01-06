@@ -1,0 +1,7 @@
+{
+	"type": "lib39:soaking",
+	"ingredients": [ { "item": "minecraft:armor_stand" } ],
+	"catalyst": { "fluid": "yttr:void" },
+	"result": { "item": "pockettools:pocket_armor_stand" },
+	"sound": "paucal:splat"
+}

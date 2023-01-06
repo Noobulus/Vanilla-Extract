@@ -1,0 +1,17 @@
+// 1.19.2	2022-12-03T18:43:48.079987269	Trades
+d7dc74b3ac6e2adac22c6c083d74dcda7ef789ba data/minecraft/trades/butcher.json
+74fb8a8579a5db415b49353c78ca8ccb64923581 data/minecraft/trades/farmer.json
+3ef5a79da037cafd63eacc0c6ab4b1078431c9d7 data/minecraft/trades/none.json
+aa02be59060c3ca749cd54204cbcb323add88f1a data/minecraft/trades/armorer.json
+81f8d2bec5f809e6841ee3668ab7a3ac3c06d77b data/minecraft/trades/leatherworker.json
+012e85985a76a8642822e903a080b0728a77e9f7 data/minecraft/trades/wanderingtrader.json
+8094ca23f0999ec856f986e540192afb021263ce data/minecraft/trades/librarian.json
+4dfa61d0535f24a7af4626042f41ff22fb25d26a data/minecraft/trades/toolsmith.json
+f9da6adb110bb35f37582b8959696b5ec3560509 data/minecraft/trades/cartographer.json
+97f025198136f9ff1c6adf47fee9119963f6c88a data/minecraft/trades/cleric.json
+b21ae585add534d559aef7645759ba35012410ce data/minecraft/trades/shepherd.json
+c4634bd4805264076a11cfea45cc88afce9d74eb data/minecraft/trades/fletcher.json
+f95aff28ea72fbb77002ba19bf640495be651c4d data/minecraft/trades/fisherman.json
+ed0705956e71aa5d659b8160a1220ecebd8d63bf data/minecraft/trades/mason.json
+3ef5a79da037cafd63eacc0c6ab4b1078431c9d7 data/minecraft/trades/nitwit.json
+c4e2c1ed0db740d99e8a8782d3a2d3a2ada924ba data/minecraft/trades/weaponsmith.json

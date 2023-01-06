@@ -1,0 +1,210 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:charcoal",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:sand",
+						"price": 32,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"buy": "minecraft:flint",
+						"price": 16,
+						"maxUses": 16,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_pickaxe"
+						},
+						"price": 3,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_axe"
+						},
+						"price": 3,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:iron_shovel"
+						},
+						"price": 1,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 15,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:iron_ingot",
+						"price": 2,
+						"maxUses": 16,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:rail"
+						},
+						"price": 2,
+						"count": 8,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:minecart"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:bell"
+						},
+						"price": 24,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:calcite",
+						"price": 16,
+						"maxUses": 8,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"wants": [{
+							"item": "minecraft:diamond",
+							"quantity": 1,
+							"price_multiplier": 0.2
+						}],
+						"gives": [{
+							"item": "minecraft:emerald",
+							"quantity": 6
+						}],
+						"trader_exp": 40,
+						"max_uses": 8,
+						"reward_exp": true
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:diamond_hoe"
+						},
+						"price": 8,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:diamond_shovel"
+						},
+						"price": 6,
+						"count": 1,
+						"maxUses": 2,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"tool": {
+							"count": 1,
+							"id": "minecraft:diamond_axe"
+						},
+						"basePrice": 16,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellEnchantedToolFactory"
+					},
+					{
+						"tool": {
+							"count": 1,
+							"id": "minecraft:diamond_pickaxe"
+						},
+						"basePrice": 16,
+						"maxUses": 2,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellEnchantedToolFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

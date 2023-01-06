@@ -1,0 +1,18 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "c:axes"
+    },
+    "block_in": {
+        "tag": "minecraft:logs"
+    },
+    "post": [
+        {
+            "type": "drop_item",
+            "item": "farmersdelight:tree_bark"
+        },
+        {
+            "type": "damage_item"
+        }
+    ]
+}

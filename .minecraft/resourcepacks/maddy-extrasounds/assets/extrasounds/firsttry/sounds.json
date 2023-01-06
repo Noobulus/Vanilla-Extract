@@ -1,0 +1,212 @@
+{
+  "chat.mention": {
+    "sounds": [
+      {
+        "name": "minecraft:note/icechime",
+        "volume": 0.9,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "chat.message": {
+    "sounds": [
+      {
+        "name": "minecraft:note/hat",
+        "volume": 0.8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "generic.click": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone.hit",
+        "volume": 0.4,
+        "pitch": 2,
+        "type": "event"
+      }
+    ]
+  },
+  "generic.scroll": {
+    "sounds": [
+      {
+        "name": "minecraft:note/hat",
+        "volume": 0.2,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "hotbar_scroll": {
+    "sounds": [
+      {
+        "name": "extrasounds:generic.scroll",
+        "type": "event"
+      }
+    ]
+  },
+  "inventory.close": {
+    "sounds": [
+      {
+        "name": "minecraft:ui/toast/out",
+        "volume": 0.5,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "inventory.open": {
+    "sounds": [
+      {
+        "name": "minecraft:ui/toast/in",
+        "volume": 0.5,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "inventory.scroll": {
+    "sounds": [
+      {
+        "name": "extrasounds:generic.scroll",
+        "type": "event"
+      }
+    ]
+  },
+  "action.bow": {
+    "sounds": [
+      {
+        "name": "minecraft:item.crossbow.loading_middle",
+        "volume": 0.25,
+        "pitch": 1,
+        "type": "event"
+      }
+    ]
+  },
+  "action.repeater.add": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone_button.click_on",
+        "volume": 0.3,
+        "pitch": 0.95,
+        "type": "event"
+      }
+    ]
+  },
+  "action.repeater.reset": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone_button.click_off",
+        "volume": 0.3,
+        "pitch": 0.85,
+        "type": "event"
+      }
+    ]
+  },
+  "item.clone": {
+    "sounds": [
+      {
+        "name": "minecraft:random/fizz",
+        "volume": 0.25,
+        "pitch": 2
+      }
+    ]
+  },
+  "item.delete": {
+    "sounds": [
+      {
+        "name": "minecraft:random/fizz",
+        "volume": 0.25,
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.drag": {
+    "sounds": [
+      {
+        "name": "extrasounds:generic.click",
+        "volume": 0.6,
+        "pitch": 1.6,
+        "type": "event"
+      }
+    ]
+  },
+  "item.drop": {
+    "sounds": [
+      {
+        "name": "minecraft:random/bow",
+        "volume": 0.4,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "item.pickup": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.place",
+        "pitch": 1.7,
+        "type": "event",
+        "volume": 0.6
+      }
+    ]
+  },
+  "item.pickup_all": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.place",
+        "pitch": 1.7,
+        "type": "event",
+        "volume": 0.6
+      }
+    ]
+  },
+  "effect.add.positive": {
+    "sounds": [
+      {
+        "name": "minecraft:block.chorus_flower.grow",
+        "volume": 1,
+        "pitch": 2,
+        "type": "event"
+      }
+    ]
+  },
+  "effect.add.negative": {
+    "sounds": [
+      {
+        "name": "minecraft:block.conduit.ambient.short",
+        "volume": 1.1,
+        "pitch": 2,
+        "type": "event"
+      }
+    ]
+  },
+  "effect.remove.positive": {
+    "sounds": [
+      {
+        "name": "minecraft:block.chorus_flower.grow",
+        "volume": 1,
+        "pitch": 1,
+        "type": "event"
+      }
+    ]
+  },
+  "effect.remove.negative": {
+    "sounds": [
+      {
+        "name": "minecraft:particle.soul_escape",
+        "volume": 1.1,
+        "pitch": 0.8,
+        "type": "event"
+      }
+    ]
+  },
+  "keyboard.type": {
+    "sounds": [
+      {
+        "name": "minecraft:block.bamboo.hit",
+        "volume": 0.4,
+        "pitch": 2,
+        "type": "event"
+      }
+    ]
+  }
+}

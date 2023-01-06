@@ -1,0 +1,168 @@
+{
+	"tiers": [{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"buy": "minecraft:paper",
+						"price": 32,
+						"maxUses": 8,
+						"experience": 2,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:bookshelf"
+						},
+						"price": 6,
+						"count": 1,
+						"maxUses": 16,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					}
+				]
+			}],
+			"total_exp_required": 0
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:glass"
+						},
+						"price": 1,
+						"count": 8,
+						"maxUses": 8,
+						"experience": 4,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:ink_sac",
+						"price": 6,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 10
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:lantern"
+						},
+						"price": 1,
+						"count": 2,
+						"maxUses": 16,
+						"experience": 10,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"buy": "minecraft:writable_book",
+						"price": 1,
+						"maxUses": 4,
+						"experience": 20,
+						"multiplier": 0.05,
+						"type": "BuyForOneEmeraldFactory"
+					}
+				]
+			}],
+			"total_exp_required": 70
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:compass"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:clock"
+						},
+						"price": 4,
+						"count": 1,
+						"maxUses": 4,
+						"experience": 30,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald"
+							},
+							{
+								"item": "minecraft:writable_book",
+								"quantity": 1
+							}
+						],
+						"enchantments": {
+							"treasure": "false"
+						},
+						"base_price": 24,
+						"trader_exp": 40,
+						"maxUses": 2,
+						"type": "VC_EnchantBookFactory"
+					}
+				]
+			}],
+			"total_exp_required": 150
+		},
+		{
+			"groups": [{
+				"num_to_select": 2,
+				"trades": [{
+						"sell": {
+							"count": 1,
+							"id": "minecraft:name_tag"
+						},
+						"price": 12,
+						"count": 1,
+						"maxUses": 8,
+						"experience": 0,
+						"multiplier": 0.05,
+						"type": "SellItemFactory"
+					},
+					{
+						"wants": [{
+								"item": "minecraft:emerald"
+							},
+							{
+								"item": "minecraft:writable_book",
+								"quantity": 1
+							}
+						],
+						"enchantments": {
+							"treasure": "false"
+						},
+						"base_price": 24,
+						"trader_exp": 0,
+						"maxUses": 2,
+						"type": "VC_EnchantBookFactory"
+					}
+				]
+			}],
+			"total_exp_required": 250
+		}
+	]
+}

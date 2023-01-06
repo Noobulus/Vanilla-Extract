@@ -1,0 +1,9 @@
+{
+	"type": "lib39:piston_smashing",
+	"input": { "block": "minecraft:potted_cactus" },
+	"catalysts": [
+		{ "block": "minecraft:diamond_block" },
+		{ "block": "minecraft:diamond_block" }
+	],
+	"output": { "item": "pockettools:pocket_cactus" }
+}

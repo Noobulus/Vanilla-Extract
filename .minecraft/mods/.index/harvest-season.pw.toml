@@ -1,0 +1,14 @@
+name = "Harvest Season"
+filename = "harvestseason-1.19.2-1.2.1-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "330fb2666d02badfad1ee6c87ebe617b61935214"
+
+[update]
+[update.curseforge]
+file-id = 4094338
+project-id = 694984

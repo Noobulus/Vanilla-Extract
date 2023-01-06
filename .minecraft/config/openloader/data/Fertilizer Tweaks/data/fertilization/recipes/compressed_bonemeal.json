@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "fertilization:compressed_bonemeal"
+  }
+}
