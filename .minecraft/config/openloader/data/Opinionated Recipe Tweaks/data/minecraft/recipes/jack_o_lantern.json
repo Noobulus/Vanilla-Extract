@@ -1,6 +1,7 @@
 {
   "replace": true,
   "type": "minecraft:crafting_shaped",
+  "category": "building",
   "key": {
     "X": {
       "item": "minecraft:carved_pumpkin"

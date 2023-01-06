@@ -65,6 +65,6 @@
       "spin": true
     }
   },
-  "armor": true,
+  "armor": false,
   "banner_pattern": true
 }
