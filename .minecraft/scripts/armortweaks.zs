@@ -5,34 +5,34 @@ import crafttweaker.api.bracket.CommandStringDisplayable;
 import crafttweaker.api.entity.attribute.AttributeOperation;
 
 // leather toughness
-<item:minecraft:leather_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:minecraft:leather_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "9f3d476d-c118-4544-8365-64846904b48e", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:minecraft:leather_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d8499b04-0e66-4726-ab29-64469d734e0d", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:minecraft:leather_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "845db27c-c624-495f-8c9f-6020a9a58b6b", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
+<item:minecraft:leather_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "5bb7620d-c2d1-43ff-acd6-22c786c1cba1", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:minecraft:leather_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "267d9c49-0dca-4d73-8320-71441ffbca3a", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
+<item:minecraft:leather_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d1425340-eb5a-4042-bd51-0ef4e7df64f0", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
+<item:minecraft:leather_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "ef453560-d9df-4b91-b5cc-0831bf3f39fc", "Leather Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
 
 // chain toughness
-<item:minecraft:chainmail_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:minecraft:chainmail_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "9f3d476d-c118-4544-8365-64846904b48e", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:minecraft:chainmail_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d8499b04-0e66-4726-ab29-64469d734e0d", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:minecraft:chainmail_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "845db27c-c624-495f-8c9f-6020a9a58b6b", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
+<item:minecraft:chainmail_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "5bb7620d-c2d1-43ff-acd6-22c786c1cba1", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:minecraft:chainmail_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "267d9c49-0dca-4d73-8320-71441ffbca3a", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
+<item:minecraft:chainmail_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d1425340-eb5a-4042-bd51-0ef4e7df64f0", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
+<item:minecraft:chainmail_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "ef453560-d9df-4b91-b5cc-0831bf3f39fc", "Chainmail Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
 
 // iron toughness
-<item:minecraft:iron_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:minecraft:iron_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "9f3d476d-c118-4544-8365-64846904b48e", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:minecraft:iron_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d8499b04-0e66-4726-ab29-64469d734e0d", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:minecraft:iron_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "845db27c-c624-495f-8c9f-6020a9a58b6b", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
+<item:minecraft:iron_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "5bb7620d-c2d1-43ff-acd6-22c786c1cba1", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:minecraft:iron_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "267d9c49-0dca-4d73-8320-71441ffbca3a", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
+<item:minecraft:iron_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d1425340-eb5a-4042-bd51-0ef4e7df64f0", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
+<item:minecraft:iron_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "ef453560-d9df-4b91-b5cc-0831bf3f39fc", "Iron Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
 
 // gold toughness
-<item:minecraft:golden_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:minecraft:golden_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "9f3d476d-c118-4544-8365-64846904b48e", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:minecraft:golden_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d8499b04-0e66-4726-ab29-64469d734e0d", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:minecraft:golden_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "845db27c-c624-495f-8c9f-6020a9a58b6b", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
+<item:minecraft:golden_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "5bb7620d-c2d1-43ff-acd6-22c786c1cba1", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:minecraft:golden_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "267d9c49-0dca-4d73-8320-71441ffbca3a", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
+<item:minecraft:golden_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "d1425340-eb5a-4042-bd51-0ef4e7df64f0", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
+<item:minecraft:golden_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "ef453560-d9df-4b91-b5cc-0831bf3f39fc", "Gold Toughness Buff", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
 
 // gold kb resist
-<item:minecraft:golden_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:minecraft:golden_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "9f3d476d-c118-4544-8365-64846904b48e", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:minecraft:golden_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "d8499b04-0e66-4726-ab29-64469d734e0d", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:minecraft:golden_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "845db27c-c624-495f-8c9f-6020a9a58b6b", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
+<item:minecraft:golden_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "5bb7620d-c2d1-43ff-acd6-22c786c1cba1", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:minecraft:golden_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "267d9c49-0dca-4d73-8320-71441ffbca3a", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
+<item:minecraft:golden_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "d1425340-eb5a-4042-bd51-0ef4e7df64f0", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
+<item:minecraft:golden_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "ef453560-d9df-4b91-b5cc-0831bf3f39fc", "Gold KB Resist", 0.15, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
 
 // netherite speed penalty
 <item:minecraft:netherite_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "b0958734-e7a5-4290-abbc-6ecdc4877a8d", "Netherite Movespeed Penalty", -0.05, AttributeOperation.MULTIPLY_BASE, [<constant:minecraft:equipmentslot:head>]);
@@ -42,4 +42,4 @@ import crafttweaker.api.entity.attribute.AttributeOperation;
 
 // turtle helmet actually gets remembered for once
 <item:minecraft:turtle_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Turtle Helm Armor Buff", 3, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:minecraft:turtle_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "2ad3f246-fee1-4e67-b886-69fd380bb150", "Turtle Helm Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:minecraft:turtle_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.armor_toughness>, "5bb7620d-c2d1-43ff-acd6-22c786c1cba1", "Turtle Helm Toughness Buff", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);

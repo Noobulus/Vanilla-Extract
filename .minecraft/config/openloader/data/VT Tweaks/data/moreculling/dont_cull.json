@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"yttr:replicator","required":false},
+    {"id":"supplementaries:jar_boat","required":false}
+  ]
+}

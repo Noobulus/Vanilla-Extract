@@ -1,0 +1,14 @@
+name = "Draggable Resource Packs"
+filename = "draggable-resource-packs-mc1.19-3.0.1+build.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/aLcHfalx/versions/3.0.1/draggable-resource-packs-mc1.19-3.0.1%2Bbuild.9.jar"
+hash-format = "sha512"
+hash = "0be85895d28967b11676fc4096efc75ea05928bf0730e6b23c6460f33bec2cc500fc6546e2ee2fd818ff25b6486e23244b5286c091b8e5bdb06b1a43707a25b8"
+
+[update]
+[update.modrinth]
+mod-id = "aLcHfalx"
+version = "iyQRQA1P"

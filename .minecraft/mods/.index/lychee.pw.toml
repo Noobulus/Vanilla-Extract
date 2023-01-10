@@ -1,14 +1,14 @@
-name = "Lychee"
-filename = "Lychee-1.19.2-fabric-3.4.0.jar"
+name = "Lychee Tweaker"
+filename = "Lychee-1.19.2-fabric-3.5.0.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/TdN6LxjM/versions/W4g3Ljfn/Lychee-1.19.2-fabric-3.4.0.jar"
+url = "https://cdn.modrinth.com/data/TdN6LxjM/versions/9NtBAAen/Lychee-1.19.2-fabric-3.5.0.jar"
 hash-format = "sha512"
-hash = "8710a05a3ae28c65acd06a78c90979d721dad2d130bbd599137f0b4d6b1427e111a853e8db042c6835bfeeb9259edcaf460a0121800222c433973f0a64e174be"
+hash = "1c032615167b42881015edbd2305c37f9de1bb05c8bc1e172028ee8eb1509184ddc875521be6296279a33254d73ea5fedba0a9a7575fc2867676b9cd75365188"
 
 [update]
 [update.modrinth]
 mod-id = "TdN6LxjM"
-version = "W4g3Ljfn"
+version = "9NtBAAen"

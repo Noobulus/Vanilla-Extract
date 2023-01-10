@@ -1,0 +1,31 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "c:shovels"
+    },
+    "block_in": "gravel",
+    "post": [
+        {
+            "type": "prevent_default"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.composter.ready block @a ~ ~ ~"
+        },
+        {
+            "type": "drop_item",
+            "item": "flint",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.25
+            }
+        },
+        {
+            "type": "damage_item"
+        },
+        {
+            "type": "add_item_cooldown",
+            "s": "1"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "lychee:block_crushing",
+    "landing_block": "basalt",
+    "post": [
+        {
+            "type": "place",
+            "block": "*"
+        },
+        {
+            "type": "drop_item",
+            "item": "raw_iron",
+            "contextual": {
+                "type": "chance",
+                "chance": 0.05
+            }
+        }
+    ]
+}

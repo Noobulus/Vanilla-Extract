@@ -186,7 +186,7 @@
     "infoEntityRegistryName": false,
     "infoFacing": true,
     "infoFurnaceXp": false,
-    "infoFPS": false,
+    "infoFPS": true,
     "infoHoneyLevel": false,
     "infoHorseSpeed": false,
     "infoHorseJump": false,

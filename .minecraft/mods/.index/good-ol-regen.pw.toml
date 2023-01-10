@@ -1,0 +1,14 @@
+name = "Good Ol' Regen"
+filename = "oldregen-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9b241e1c0670ea4c576854b1765e0859f84f9815"
+
+[update]
+[update.curseforge]
+file-id = 3042258
+project-id = 404573

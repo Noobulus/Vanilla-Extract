@@ -17,7 +17,7 @@
     "witherRoseSounds": true
   },
   "stoneChest": {
-    "stoneChestTimer": 100
+    "stoneChestTimer": 200
   },
   "mcLiveSensorTendrils": true,
   "shriekerGargling": true,

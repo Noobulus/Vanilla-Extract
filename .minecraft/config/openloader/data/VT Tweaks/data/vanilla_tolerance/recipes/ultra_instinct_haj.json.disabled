@@ -1,0 +1,18 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "blahaj:blue_shark"
+    },
+    "block_in": {
+        "tag": "minecraft:beds"
+    },
+    "post": [
+        {
+            "type": "prevent_default"
+        },
+        {
+            "type": "execute",
+            "command": "playsound paucal:pet.ultrainstinct action @a ~ ~ ~"
+        }
+    ]
+}

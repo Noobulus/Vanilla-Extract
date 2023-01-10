@@ -1,0 +1,14 @@
+name = "Soul Vitric"
+filename = "soul_vitric-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OhVwkCDq/versions/1.0.0/soul_vitric-1.0.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "842e18f85cafb0a41c05564457a76ac24b13fdc267c92d5a14f7dc31502b1e23b101ac2b9882092d245175d99ac8ed81dd8d747f245b9bef0d8ab90b13f204bc"
+
+[update]
+[update.modrinth]
+mod-id = "OhVwkCDq"
+version = "ERySvwDp"

@@ -10,7 +10,7 @@
       "item": "minecraft:stone"
     },
     "X": {
-      "tag": "minecraft:quartzlike"
+      "tag": "opinionated_tweaks:quartzlike"
     }
   },
   "pattern": [

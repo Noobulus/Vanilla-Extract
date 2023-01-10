@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Boring Default Game Rules Configuration File",
-  "gameRulesHash": "40df73757189f674ef16adcbc7e1354211867916708f2340edf10618658e9290",
+  "gameRulesHash": "70bec3b6e67a4c8914d684dc70a088c34bb4a3d068c530a02fdbe87eefd34bc3",
   "description": "The config file for the \"Boring Default Game Rules\" mod.",
   "type": "object",
   "properties": {
@@ -20,6 +20,18 @@
           "title": "announceAdvancements",
           "description": "Announce advancements",
           "default": true
+        },
+        "blizzardFrequency": {
+          "type": "integer",
+          "title": "blizzardFrequency",
+          "description": "gamerule.blizzardFrequency",
+          "default": 10000
+        },
+        "blizzardStrength": {
+          "type": "integer",
+          "title": "blizzardStrength",
+          "description": "gamerule.blizzardStrength",
+          "default": 0
         },
         "commandBlockOutput": {
           "type": "boolean",
@@ -158,6 +170,12 @@
           "title": "logAdminCommands",
           "description": "Broadcast admin commands",
           "default": true
+        },
+        "longReachIncrement": {
+          "type": "integer",
+          "title": "longReachIncrement",
+          "description": "gamerule.longReachIncrement",
+          "default": 2
         },
         "maxCommandChainLength": {
           "type": "integer",

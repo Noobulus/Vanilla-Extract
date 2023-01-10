@@ -1,0 +1,14 @@
+name = "NoMoreGlowingPots"
+filename = "nomoreglowingpots-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ff911e16d729fd5e0e6c9959b7538a74a9663e98"
+
+[update]
+[update.curseforge]
+file-id = 2923534
+project-id = 286348

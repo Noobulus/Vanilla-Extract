@@ -1,0 +1,14 @@
+name = "DRG Flares (Fabric)"
+filename = "drg_flares-1.19-fabric-1.2.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "07cd20f0d5011ba8cddb96854f694b49d622923b"
+
+[update]
+[update.curseforge]
+file-id = 3861310
+project-id = 568533

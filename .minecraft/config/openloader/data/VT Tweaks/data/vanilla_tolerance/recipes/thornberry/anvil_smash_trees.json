@@ -1,0 +1,12 @@
+{
+    "type": "lychee:block_crushing",
+    "landing_block": {
+        "tag": "minecraft:completes_find_tree_tutorial"
+    },
+    "post": [
+        {
+            "type": "execute",
+            "command": "setblock ~ ~-1 ~ air destroy"
+        }
+    ]
+}

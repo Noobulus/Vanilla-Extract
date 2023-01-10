@@ -1,0 +1,14 @@
+name = "Pyrotastic 🎆"
+filename = "pyrotastic-1.19+2.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nlWoESo2/versions/UITgmakU/pyrotastic-1.19%2B2.0.3.jar"
+hash-format = "sha512"
+hash = "f3158925b3525d927849dd8edf9d077f8e41a746b3f153d2e0f025b312c0456183b9c321e6827ca98bf59f5408a49a4eeab0d5eb35c8bcdc18b6adb09a328935"
+
+[update]
+[update.modrinth]
+mod-id = "nlWoESo2"
+version = "UITgmakU"

@@ -1,0 +1,14 @@
+{
+    "type": "lychee:block_crushing",
+    "landing_block": "potted_cactus",
+    "post": [
+        {
+            "type": "place",
+            "block": "*"
+        },
+        {
+            "type": "drop_item",
+            "item": "pockettools:pocket_cactus"
+        }
+    ]
+}

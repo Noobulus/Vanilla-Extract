@@ -1,0 +1,14 @@
+name = "Sparkle!"
+filename = "sparkle-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Lpsy1gMk/versions/1.0.3/sparkle-1.0.3.jar"
+hash-format = "sha512"
+hash = "f142caa744bfcc6e9580ff7de6235160a54994f56e6419c096341d2c51d081821ca0ee1b46a4056109caa614d0e6936e3f4b9d7a5cde8e841d408df73f3dc57b"
+
+[update]
+[update.modrinth]
+mod-id = "Lpsy1gMk"
+version = "SOiSccOZ"

@@ -1,0 +1,14 @@
+name = "Particle Blocker"
+filename = "Particle-Blocker.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/aVja52oo/versions/pZkBBnnh/Particle-Blocker.jar"
+hash-format = "sha512"
+hash = "5639806a32da30e34ac52eb18f90ca622f679d5300e919bd343d3eaff2d1d9c371d29ffb1ab75f65f6ea1b9110f18bd9c022e1c94b4fe6dd7cba2b430d942a6c"
+
+[update]
+[update.modrinth]
+mod-id = "aVja52oo"
+version = "pZkBBnnh"

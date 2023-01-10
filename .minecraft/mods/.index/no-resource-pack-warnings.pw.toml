@@ -1,0 +1,14 @@
+name = "No Resource Pack Warnings"
+filename = "no-resource-pack-warnings-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6xKUDQcB/versions/1.0.0/no-resource-pack-warnings-1.0.0.jar"
+hash-format = "sha512"
+hash = "4eac093840a06b6cf606c6d2527d3668eb1a2bb88b59329f5297c901ac965c7fbf9c4156614d9ae5e806c9a0643228fb51ef53ce07c9e775e1b5e5c0ec6e070d"
+
+[update]
+[update.modrinth]
+mod-id = "6xKUDQcB"
+version = "hejC8hg2"

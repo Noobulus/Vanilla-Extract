@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Backports the 1.19.3 EMIEffect descriptions for Extra Alchemy's potions to 1.19.2"
+  }
+}

@@ -80,6 +80,43 @@ mode = "fancy"
 				cabinet = true
 				cooking_pot = true
 
+			[light_sources.settings.block_entities.yttr]
+				flopper = true
+				void_filter = true
+				inred_demo_cycler = true
+				chute = true
+				ssd = true
+				inred_xor_gate = true
+				dsu = true
+				inred_encoder = true
+				void_cauldron = true
+				dopper = true
+				aware_hopper = true
+				cleaved_block = true
+				power_meter = true
+				screeper_nest = true
+				inred_transistor = true
+				levitation_chamber = true
+				bloque = true
+				skeletal_sorter = true
+				inred_oscillator = true
+				inred_not_gate = true
+				lamp = true
+				squeezed_leaves = true
+				can_filler = true
+				suit_station = true
+				inred_diode = true
+				void_geyser = true
+				centrifuge = true
+				inred_shifter = true
+				lazor_beam = true
+				replicator = true
+				inred_and_gate = true
+				project_table = true
+
+			[light_sources.settings.block_entities.netherchest]
+				nether_chest = true
+
 			[light_sources.settings.block_entities.immersive_weathering]
 				icicle = true
 
@@ -128,8 +165,23 @@ mode = "fancy"
 				sign_post = true
 
 			[light_sources.settings.block_entities.wilderwild]
+				stone_chest = true
 				termite_mound = true
+				display_lantern = true
 				hanging_tendril = true
+
+			[light_sources.settings.block_entities.pyrotastic]
+				fireworks_crate = true
+
+			[light_sources.settings.block_entities.kahur]
+				confetti_cannon = true
+
+			[light_sources.settings.block_entities.snowrealmagic]
+				texture_tile = true
+				snow = true
+
+			[light_sources.settings.block_entities.windchimes]
+				chime = true
 
 		[light_sources.settings.entities]
 
@@ -261,6 +313,11 @@ mode = "fancy"
 			[light_sources.settings.entities.farmersdelight]
 				rotten_tomato = true
 
+			[light_sources.settings.entities.yttr]
+				thrown_glowing_gas = true
+				rifle_dummy = true
+				slipping_transfungus = true
+
 			[light_sources.settings.entities.campanion]
 				lawn_chair = true
 				grappling_hook = true
@@ -270,14 +327,24 @@ mode = "fancy"
 				cannon = true
 
 			[light_sources.settings.entities.snowyspirit]
+				container_entity = true
 				sled = true
+
+			[light_sources.settings.entities.drg_flares]
+				drg_flare = true
 
 			[light_sources.settings.entities.whipdashing]
 				hook_entity = true
 
+			[light_sources.settings.entities.snowrealmagic]
+				snow = true
+
 			[light_sources.settings.entities.halfdoors]
 				tiny_door = true
 				door_saw = true
+
+			[light_sources.settings.entities.spelunkery]
+				glowstick = true
 
 			[light_sources.settings.entities.luggage]
 				luggage = true
@@ -290,6 +357,11 @@ mode = "fancy"
 			[light_sources.settings.entities.peculiarpieces]
 				teleport_item_entity = true
 				equipment_stand_entity = true
+
+			[light_sources.settings.entities.immersive_weathering]
+				falling_propagule = true
+				falling_layer = true
+				falling_icicle = true
 
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
@@ -312,7 +384,12 @@ mode = "fancy"
 			[light_sources.settings.entities.enchancement]
 				brimstone = true
 				ice_shard = true
+				frozen_player = true
 				grapple_fishing_bobber = true
+				torch = true
+
+			[light_sources.settings.entities.pyrotastic]
+				fireworks_crate = true
 
 			[light_sources.settings.entities.kahur]
 				kahur_shot = true

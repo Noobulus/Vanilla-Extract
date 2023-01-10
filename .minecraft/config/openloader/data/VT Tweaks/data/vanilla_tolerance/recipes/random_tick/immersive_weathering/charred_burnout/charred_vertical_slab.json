@@ -1,0 +1,20 @@
+{
+    "type": "lychee:random_block_ticking",
+    "block_in": {
+        "blocks": ["immersive_weathering:charred_vertical_slab"],
+        "state": {
+            "smoldering": true
+        }
+    },
+    "post": [
+        {
+            "type": "place",
+            "block": {
+                "blocks": ["immersive_weathering:charred_vertical_slab"],
+                "state": {
+                    "smoldering": false
+                }
+            }
+        }
+    ]
+}

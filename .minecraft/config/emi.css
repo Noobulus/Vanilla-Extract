@@ -375,7 +375,7 @@
 	 * Whether stacks in the index should display a highlight if they have a recipe
 	 * default.
 	 */
-	highlight-defaulted: false;
+	highlight-defaulted: true;
 
 	/**
 	 * Whether to display exclusion areas

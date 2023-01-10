@@ -69,6 +69,21 @@
     "yttr:drop_of_continuity:1",
     "#comforts:sleeping_bags:1",
     "#minecraft:beds:1",
-    "luggage:luggage:1"
+    "luggage:luggage:1",
+    "#comforts:hammocks:1",
+    "minecraft:writable_book:1",
+    "minecraft:written_book:1",
+    "pockettools:pocket_furnace:1",
+    "pockettools:pocket_blast_furnace:1",
+    "pockettools:pocket_smoker:1",
+    "pockettools:pocket_grindstone:1",
+    "pockettools:pocket_composter:1",
+    "pockettools:pocket_end_portal:1",
+    "pockettools:pocket_note_block:1",
+    "pockettools:pocket_jukebox:1",
+    "pockettools:pocket_armor_stand:1",
+    "pockettools:pocket_cactus:1",
+    "pockettools:pocket_stonecutter:1",
+    "pockettools:pocket_ender_chest:1"
   ]
 }

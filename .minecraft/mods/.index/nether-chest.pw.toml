@@ -1,0 +1,14 @@
+name = "Nether Chest"
+filename = "netherchest-mc1.19-4.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/okOUGirG/versions/mc1.19-4.0/netherchest-mc1.19-4.0.jar"
+hash-format = "sha512"
+hash = "64e21273a0c6518b8d8b38382a538587ac5283d41ca9a3bef46983e6c4312e13ed0b4e027f7fe006e4ed9bf578cf5c29d4f3645ead4834d368e76cf90894efbe"
+
+[update]
+[update.modrinth]
+mod-id = "okOUGirG"
+version = "lTBNvI7c"
