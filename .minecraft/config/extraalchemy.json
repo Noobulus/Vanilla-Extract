@@ -2,7 +2,7 @@
   "learningIncreasesExpOrbValue": false,
   "enableVials": false,
   "enableRings": false,
-  "enableBrewingStandFire": true,
+  "enableBrewingStandFire": false,
   "brewingStandHeatIncrementDelay": 2,
   "brewingStandFireMaxCapacity": 20,
   "useAnchorChargesWithReturnPotion": true,

@@ -16,5 +16,5 @@
 	// When enabled, the mod will work with normal campfires.
 	"enableEffectForNormalCampfires": true,
 	// When enabled, the mod will work with soul campfires.
-	"enableEffectForSoulCampfires": true
+	"enableEffectForSoulCampfires": false
 }

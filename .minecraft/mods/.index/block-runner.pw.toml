@@ -1,0 +1,14 @@
+name = "Block Runner"
+filename = "BlockRunner-v4.2.0-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/xCUW1cP7/BlockRunner-v4.2.0-1.19.2-Fabric.jar"
+hash-format = "sha512"
+hash = "5d1b2312a412dc73c0ecffce04ed5b9627c33d2ae3c4f64806540a4209a792f5a317b2a6f3d40d2b222649b23481ad5ee389b75a1a43c2ea4772758c043133a8"
+
+[update]
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "xCUW1cP7"

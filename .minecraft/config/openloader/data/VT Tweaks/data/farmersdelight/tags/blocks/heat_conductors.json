@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "yttr:chute",
+    "yttr:dopper",
+    "yttr:flopper",
+    "yttr:levitation_chamber",
+    "yttr:aware_hopper",
+    "#aurorasdeco:hoppers"
+  ]
+}

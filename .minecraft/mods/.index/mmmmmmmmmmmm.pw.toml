@@ -1,0 +1,14 @@
+name = "MmmMmmMmmMmm"
+filename = "MmmMmmMmmMmm-FABRIC-1.19-1.5.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/La9N7Ttu/MmmMmmMmmMmm-FABRIC-1.19-1.5.3.jar"
+hash-format = "sha512"
+hash = "0594edcae7e39fa38e19b79d4d4f2817624210de0108431ffcbe7f4c262cb61e2237a41d3d1d89e009f8b09f9f2d64882fadf9efeabccd48df3d1e7c1236cb50"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "La9N7Ttu"
