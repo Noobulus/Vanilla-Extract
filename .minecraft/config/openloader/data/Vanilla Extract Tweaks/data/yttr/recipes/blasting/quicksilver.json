@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": {
+		"tag": "vanilla_extract:cinnabar"
+	},
+	"result": "yttr:quicksilver",
+	"experience": 0.7,
+	"cookingtime": 100
+}

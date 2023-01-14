@@ -47,7 +47,7 @@
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
 	 */
-	append-item-mod-id: false;
+	append-item-mod-id: true;
 
 	/**
 	 * Which sidebar type to switch to when searching.

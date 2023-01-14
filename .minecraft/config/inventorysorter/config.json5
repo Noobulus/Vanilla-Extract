@@ -10,9 +10,9 @@
 	// Sorting inv also sorts player inv
 	"sortPlayer": false,
 	// Method of sorting, NAME,CATEGORY,MOD
-	"sortType": "CATEGORY",
+	"sortType": "NAME",
 	// Display Sort Button Tooltip
-	"displayTooltip": true,
+	"displayTooltip": false,
 	// Sort Inventory key
 	"keybinding": "key.keyboard.o",
 	// Should sort half of open inv highlighted by mouse

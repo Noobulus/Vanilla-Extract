@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 9,
-    "description": "tweak supplementaries/immersive weathering ash integration"
+    "description": "Rename Supplementaries ash to potash and change it to only drop from Immersive Weathering charred logs. Made by Noobulus"
   }
 }

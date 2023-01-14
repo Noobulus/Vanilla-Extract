@@ -1,0 +1,14 @@
+name = "VanitySlots"
+filename = "VanitySlots-1.2.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YTVu0oG8/versions/4da5FVoG/VanitySlots-1.2.5.jar"
+hash-format = "sha512"
+hash = "828a9e677a42ca194364670927f8027b1980f201c953ed8f35d718ebf0f02635d51c9187df9d75494ac7bcd75897fe3e12d632b506d952f0d77a6fdb4d7e225b"
+
+[update]
+[update.modrinth]
+mod-id = "YTVu0oG8"
+version = "4da5FVoG"

@@ -35,6 +35,7 @@ key_modifiers_key.hotbar.9:0,0,0
 key_modifiers_drg_flares.keys.throw_flare:0,0,0
 key_modifiers_drg_flares.keys.flare_mod_settings:0,0,0
 key_modifiers_key.do_a_barrel_roll.toggle_enabled:0,0,0
+key_modifiers_key.do_a_barrel_roll.toggle_thrust:0,0,0
 key_modifiers_key.amecs.alternative_escape:0,0,0
 key_modifiers_key.amecs.toggle_auto_jump:0,0,0
 key_modifiers_key.amecs.toggle_cape:0,0,0
@@ -59,6 +60,8 @@ key_modifiers_key.immersive_aircraft.dismount:0,0,0
 key_modifiers_key.pressalttomeow.meow:0,0,0
 key_modifiers_key.extraalchemy.magnetism_toggle:0,0,0
 key_modifiers_key.extraalchemy.potion_bag_mode:0,0,0
+key_modifiers_key.extraalchemy.toggle_extra_inv_rings:0,0,0
+key_modifiers_key.noteable.open_editor:0,0,0
 key_modifiers_key.fabricskyboxes.toggle:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_ping-wheel.key.mark-location:0,0,0
@@ -66,14 +69,14 @@ key_modifiers_ping-wheel.key.open-settings:0,0,0
 key_modifiers_key.flighthud.toggleDisplayMode:0,0,0
 key_modifiers_equipmentcompare.key.showTooltips:0,0,0
 key_modifiers_key.inventorysorter.sort:0,0,0
+key_modifiers_key.jade.config:0,0,0
+key_modifiers_key.jade.show_overlay:0,0,0
+key_modifiers_key.jade.toggle_liquid:0,0,0
+key_modifiers_key.jade.narrate:0,0,0
+key_modifiers_key.jade.show_details_alternative:0,0,0
 key_modifiers_key.craftingcraft.portable_crafting:0,0,0
 key_modifiers_key.craftingcraft.back_to_inventory:0,0,0
 key_modifiers_key.walljump.walljump:0,0,0
-key_modifiers_key.waila.config:0,0,0
-key_modifiers_key.waila.show_overlay:0,0,0
-key_modifiers_key.waila.toggle_liquid:0,0,0
-key_modifiers_key.waila.show_recipe_input:0,0,0
-key_modifiers_key.waila.show_recipe_output:0,0,0
 key_modifiers_key.projectsavethepets.allowdamage:0,0,0
 key_modifiers_iris.keybind.reload:0,0,0
 key_modifiers_iris.keybind.toggleShaders:0,0,0

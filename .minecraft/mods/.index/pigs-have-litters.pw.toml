@@ -1,0 +1,14 @@
+name = "Pigs Have Litters"
+filename = "pigs-have-litters-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gUq8KoTS/versions/aypnO7qH/pigs-have-litters-1.0.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "077de23e06e1643abf0528b47fda06b73b75e9657e0002b2f4563d526c9942ad3a93376006d3d2655d3c51317da77e453de8fce4042632b2cc79f4828ff7db93"
+
+[update]
+[update.modrinth]
+mod-id = "gUq8KoTS"
+version = "aypnO7qH"

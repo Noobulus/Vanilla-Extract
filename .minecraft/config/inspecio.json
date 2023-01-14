@@ -38,7 +38,7 @@
   },
   "entities": {
     "spawn_egg": {
-      "enabled": true,
+      "enabled": false,
       "always_show_name": false,
       "spin": true
     },

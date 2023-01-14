@@ -84,6 +84,7 @@
     "pockettools:pocket_armor_stand:1",
     "pockettools:pocket_cactus:1",
     "pockettools:pocket_stonecutter:1",
-    "pockettools:pocket_ender_chest:1"
+    "pockettools:pocket_ender_chest:1",
+    "#trinkets:head/hat:1"
   ]
 }

@@ -1,4 +1,5 @@
 /.minecraft/.quilt
+/.minecraft/.mixin.out
 /.minecraft/crash-reports
 /.minecraft/debug
 /.minecraft/logs
@@ -11,3 +12,4 @@
 /.minecraft/rhino.local.properties
 /.minecraft/usercache.json
 /instance.cfg
+/.idea

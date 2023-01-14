@@ -163,6 +163,7 @@ mode = "fancy"
 				safe = true
 				present = true
 				sign_post = true
+				enderman_head = true
 
 			[light_sources.settings.block_entities.wilderwild]
 				stone_chest = true
@@ -182,6 +183,38 @@ mode = "fancy"
 
 			[light_sources.settings.block_entities.windchimes]
 				chime = true
+
+			[light_sources.settings.block_entities.aurorasdeco]
+				lantern = true
+				bench = true
+				blackboard = true
+				blackboard_press = true
+				book_pile = true
+				copper_hopper = true
+				shelf = true
+				sign_post = true
+				wind_chime = true
+
+			[light_sources.settings.block_entities.tradingpost]
+				trading_post = true
+
+			[light_sources.settings.block_entities.comforts]
+				hammock = true
+				sleeping_bag = true
+
+			[light_sources.settings.block_entities.drg_flares]
+				flare_light_block_entity = true
+
+			[light_sources.settings.block_entities.spelunkery]
+				carved_nephrite = true
+				nephrite_spout = true
+
+			[light_sources.settings.block_entities.harvestseason]
+				candy_bag = true
+				carved_pumpkin = true
+
+			[light_sources.settings.block_entities.snowyspirit]
+				glow_lights = true
 
 		[light_sources.settings.entities]
 
@@ -393,4 +426,16 @@ mode = "fancy"
 
 			[light_sources.settings.entities.kahur]
 				kahur_shot = true
+
+			[light_sources.settings.entities.aurorasdeco]
+				fake_leash_knot = true
+				seat = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
+				chest_boat = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+				dummy_number = true
 

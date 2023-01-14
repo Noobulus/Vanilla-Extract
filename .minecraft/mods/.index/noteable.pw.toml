@@ -1,0 +1,14 @@
+name = "Noteable"
+filename = "Noteable-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/8CZovXCd/versions/WlcSnWX8/Noteable-1.19.2-1.2.1.jar"
+hash-format = "sha512"
+hash = "ae2b16bb3a67d1058b34c2bcdbd900f45c4a90a735e85709722e06fd4894b50958f03515acd237750a09598121e7a6b3f270ac95775fabd516871fc515856ec5"
+
+[update]
+[update.modrinth]
+mod-id = "8CZovXCd"
+version = "WlcSnWX8"
