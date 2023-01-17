@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "item": "spelunkery:diamond_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#X#",
+    "#N#"
+  ],
+  "result": {
+    "item": "minecraft:jukebox"
+  }
+}

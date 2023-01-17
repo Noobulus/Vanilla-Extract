@@ -134,7 +134,7 @@
       "spawn_attempts": 7
     },
     "basalt_ash": {
-      "enabled": true,
+      "enabled": false,
       "attempts_per_patch": 36,
       "spawn_attempts": 15
     },

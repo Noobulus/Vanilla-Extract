@@ -1,0 +1,14 @@
+name = "Brainier Bees"
+filename = "brainierbees-1.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/O2WJc0f3/versions/NiT5T5Pg/brainierbees-1.3.jar"
+hash-format = "sha512"
+hash = "a1008588d50fa56772f54d5521d2f7ce1ac9f11fa5cb7f4f576b7dabb57eccbb370e669cd2761e4d44d037d39618fe54c79df407a4f9a29ea23c7167f9b27495"
+
+[update]
+[update.modrinth]
+mod-id = "O2WJc0f3"
+version = "NiT5T5Pg"

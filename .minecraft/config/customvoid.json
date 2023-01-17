@@ -1,7 +1,7 @@
 {
   "renderVoid": true,
-  "voidDynamicHeight": false,
-  "voidType": "DEFAULT",
+  "voidDynamicHeight": true,
+  "voidType": "SKY",
   "voidThreshold": 63,
   "voidTranslateHeight": 0,
   "voidCustomRed": 60,

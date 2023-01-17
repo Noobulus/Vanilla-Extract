@@ -1,0 +1,14 @@
+name = "u00a7"
+filename = "u00a7-fabric-0.1.2-mc1.19.1-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lXsF9wsd/versions/0.1.2-mc1.19.1-1.19.2/u00a7-fabric-0.1.2-mc1.19.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "45cbbb5fa1d5b125ffaa706168acbfc54e041fa5195ca7cda848d17a9d73ce740022eb799c7a684e29a209aba83ecb82d8f5d5c7d4bb3b3ab7454e6c764a368f"
+
+[update]
+[update.modrinth]
+mod-id = "lXsF9wsd"
+version = "NrkQLkWm"

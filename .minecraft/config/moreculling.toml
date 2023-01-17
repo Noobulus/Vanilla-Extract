@@ -15,4 +15,26 @@ powderSnowCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+glassdoor = true
+chalk = true
+everycomp = true
+spelunkery = true
+farmersdelight = true
+snowyspirit = true
+supplementaries = true
+windchimes = true
+aurorasdeco = true
+tradingpost = true
+harvestseason = true
+immersive_weathering = true
+pyrotastic = true
+wilderwild = true
+yttr = true
+netherchest = true
+snowrealmagic = true
+drg_flares = true
+moyai = true
+architects_palette = true
 minecraft = true
+soul_vitric = true
+comforts = true

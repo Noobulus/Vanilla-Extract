@@ -3,7 +3,7 @@ fairBreeds = true
 portalPatch = true
 rubberBand = true
 breakSpeed = true
-stepHeight = false
+stepHeight = true
 horseHeadAngleOffset = 0
 jeb_Horses = true
 

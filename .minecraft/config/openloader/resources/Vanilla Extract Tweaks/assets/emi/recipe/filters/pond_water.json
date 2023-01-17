@@ -1,0 +1,10 @@
+{
+  "filters": [
+    {
+      "id": "immersive_weathering:/pond_water"
+    },
+    {
+      "id": "immersive_weathering:/pond_water_silt"
+    }
+  ]
+}
