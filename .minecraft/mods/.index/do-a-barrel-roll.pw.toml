@@ -1,14 +1,14 @@
 name = "Do a Barrel Roll"
-filename = "do-a-barrel-roll-2.5.2+1.19.2-fabric.jar"
+filename = "do-a-barrel-roll-2.5.3+1.19.2-fabric.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/DNIT5vUX/do-a-barrel-roll-2.5.2%2B1.19.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/9mAq86OS/do-a-barrel-roll-2.5.3%2B1.19.2-fabric.jar"
 hash-format = "sha512"
-hash = "777e0a3c4d69f776bf4857c3262534c626796d2b06b87e24fba6e81a56a76a9a7c6e01cb56ae222c00ea5e640b2160d930b2ef0733171469c540c1d06707b6dc"
+hash = "147d6c2f8093bac7a8ff445047e4ec8aa90ee89258e2109db971dd55e2af859fd732597000e5a70c5bef75ce9dd9c395dc906bab1b83a33d65da35d1fad43758"
 
 [update]
 [update.modrinth]
 mod-id = "6FtRfnLg"
-version = "DNIT5vUX"
+version = "9mAq86OS"
