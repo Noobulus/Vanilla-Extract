@@ -30,7 +30,7 @@
   "effects": {
     "food": true,
     "hidden_motion": true,
-    "hidden_effect_mode": "enchantment",
+    "hidden_effect_mode": "obfuscated",
     "beacon": true,
     "potions": true,
     "tipped_arrows": true,

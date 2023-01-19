@@ -1,5 +1,12 @@
 {
   "types": {
+    "wood_type": {
+      "aurorasdeco.azalea": true,
+      "aurorasdeco.jacaranda": true,
+      "architects_palette.twisted": true,
+      "wilderwild.baobab": true,
+      "wilderwild.cypress": true
+    },
     "leaves_type": {
       "aurorasdeco.jacaranda": true,
       "aurorasdeco.budding_jacaranda": true,
@@ -7,20 +14,13 @@
       "architects_palette.twisted": true,
       "wilderwild.baobab": true,
       "wilderwild.cypress": true
-    },
-    "wood_type": {
-      "aurorasdeco.azalea": true,
-      "aurorasdeco.jacaranda": true,
-      "architects_palette.twisted": true,
-      "wilderwild.baobab": true,
-      "wilderwild.cypress": true
     }
   },
   "entries": {
-    "leaves_type": {},
     "wood_type": {
       "architects_palette.railing": true,
       "architects_palette.boards": true
-    }
+    },
+    "leaves_type": {}
   }
 }

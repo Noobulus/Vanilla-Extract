@@ -25,9 +25,9 @@
      * A path to be filtered in string form, e.g. 'minecraft:recipes/' or 'tconstruct:foundry/'
      * `unset` for none. Multiple can be specified by duplicating this line and setting it to another value
      */
-    filter-path: 'immersive_weathering:immersive_weathering/pond_water';
-    filter-path: 'immersive_weathering:immersive_weathering/mulch';
     filter-path: 'immersive_weathering:immersive_weathering/nulch';
+    filter-path: 'immersive_weathering:immersive_weathering/mulch';
+    filter-path: 'immersive_weathering:immersive_weathering/pond_water';
 
     /*
      * If set to "on", a special method will be used to filter recipe advancements

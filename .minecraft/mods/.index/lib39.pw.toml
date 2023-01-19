@@ -1,14 +1,14 @@
 name = "Lib39"
-filename = "lib39-1.4.2.jar"
+filename = "lib39-1.5.0-pre1+1.19.2-all.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/BMsWWSPQ/versions/EsnZ2MDc/lib39-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/BMsWWSPQ/versions/WDONcaIv/lib39-1.5.0-pre1%2B1.19.2-all.jar"
 hash-format = "sha512"
-hash = "ddb9e8d13fa9e0014b538bdf2da2b869636e867e7d3a7896289009a3ba0559d57c9f4de85ccd34e6c828775ac000058de68ba6fbc17f4775baebc2bb863949ef"
+hash = "0283c7cffd26d35731b8276494ce6318407d691e00e575c0029dec35c1751e5a5ba18ee92ce425569f412570ae6741176b32e0d90c2ad5f69566634b8a2e86ed"
 
 [update]
 [update.modrinth]
 mod-id = "BMsWWSPQ"
-version = "EsnZ2MDc"
+version = "WDONcaIv"
