@@ -1,4 +1,6 @@
 import crafttweaker.api.food.FoodProperties;
+import crafttweaker.api.entity.effect.MobEffectInstance;
 
 var item = <item:minecraft:glistering_melon_slice>;
 item.food = FoodProperties.create(1, 2.4);
+item.food.addEffect(new MobEffectInstance(<mobeffect:minecraft:haste>, 200), 1);

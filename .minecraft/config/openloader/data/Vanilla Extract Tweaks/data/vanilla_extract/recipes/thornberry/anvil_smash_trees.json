@@ -6,7 +6,7 @@
     "post": [
         {
             "type": "execute",
-            "command": "setblock ~ ~-1 ~ air destroy"
+            "command": "fill ~-1 ~ ~-1 ~1 ~ ~1 air destroy"
         }
     ]
 }

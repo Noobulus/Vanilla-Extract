@@ -1,0 +1,36 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [{
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:honey_bottle",
+            "remainder": {
+                "item": "minecraft:glass_bottle"
+            }
+        }
+    ],
+    "result": {
+        "item": "minecraft:suspicious_stew",
+        "data": {
+            "Effects": [{
+                    "EffectId": 1,
+                    "EffectDuration": "$ (2400)#i"
+                },
+                {
+                    "EffectId": 4,
+                    "EffectDuration": "$ (3000)#i"
+                }
+            ]
+        }
+    }
+}

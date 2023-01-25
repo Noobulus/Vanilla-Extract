@@ -1,14 +1,14 @@
 name = "EMI"
-filename = "emi-0.6.0+1.19.2.jar"
+filename = "emi-0.6.1+1.19.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/JDYyc3km/emi-0.6.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/AVh1lXN3/emi-0.6.1%2B1.19.2.jar"
 hash-format = "sha512"
-hash = "4dc2ffad75939f74060cd737bd4f0c0c8695505e9978bcdd3551b9865e5d5e139fd37710d86277f3e7a1c857979c1d566d7f4e947c4e00736ec7a3f66cb8ee1d"
+hash = "3c0d62f05c32d47036573991c9b6f50403f998b15f0980018b9b090188c3ca58c5790243f8fab93f0fc44d6a6723d00b8cdce247eab9162f2243b7c35c7900a5"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "JDYyc3km"
+version = "AVh1lXN3"

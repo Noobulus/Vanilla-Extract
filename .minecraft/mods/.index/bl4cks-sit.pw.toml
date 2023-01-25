@@ -1,0 +1,14 @@
+name = "Sit"
+filename = "sit-1.19.2-20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/chIzzjRQ/sit-1.19.2-20.jar"
+hash-format = "sha512"
+hash = "e2917dc76c2c0cea6fc468bbbf7fb206afaebf248229b79dae70e03b6392e76466e243b7a30ac238f5617d998a4a87e06f8fba73273b189cda35ce5fff50e813"
+
+[update]
+[update.modrinth]
+mod-id = "VKXzIykF"
+version = "chIzzjRQ"

@@ -1,0 +1,67 @@
+{
+  "source_family": [
+    {
+      "pattern": [
+        "#  ",
+        "## ",
+        "###"
+      ],
+      "output_token": "~",
+      "output_count": 4
+    },
+    {
+      "pattern": ["###"],
+      "output_token": "=",
+      "output_count": 6
+    },
+    {
+      "pattern": ["##"],
+      "output_token": "^",
+      "output_count": 1
+    }
+  ],
+  "result_family": [
+    {
+      "id_suffix": "_2x2_stairs",
+      "pattern": [
+        "# ",
+        "##"
+      ],
+      "output_token": "~",
+      "output_count": 3
+    },
+    {
+      "id_suffix": "_2x2_slabs",
+      "pattern": [
+        "##"
+      ],
+      "output_token": "=",
+      "output_count": 4
+    },
+    {
+      "id_suffix": "_2x2_stairs_to_blocks",
+      "pattern": [
+        "~ ",
+        "~~"
+      ],
+      "output_token": "#",
+      "output_count": 3
+    },
+    {
+      "id_suffix": "_2x2_slabs_to_blocks",
+      "pattern": [
+        "=="
+      ],
+      "output_token": "#",
+      "output_count": 1
+    },
+    {
+      "id_suffix": "_3x3_slabs_to_pressure_plate",
+      "pattern": [
+        "==="
+      ],
+      "output_token": "^",
+      "output_count": 1
+    }
+  ]
+}

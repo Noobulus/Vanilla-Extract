@@ -1,0 +1,14 @@
+name = "Preventer"
+filename = "1.19.x-preventer-0.8.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RK0tTWG1/versions/WKtvlPxI/1.19.x-preventer-0.8.6.jar"
+hash-format = "sha512"
+hash = "d0c424bc563bf7826a1866e53437a76457b5b29c3866d5642944afdb15cf7aea21d0cfee7cd60685b383ad44f2a9ac207274912a737dcf35ed804b0cb561f07f"
+
+[update]
+[update.modrinth]
+mod-id = "RK0tTWG1"
+version = "WKtvlPxI"

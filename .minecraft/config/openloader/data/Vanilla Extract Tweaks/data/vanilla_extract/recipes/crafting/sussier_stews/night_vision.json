@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [{
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "item": "minecraft:golden_carrot"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        }
+    ],
+    "result": {
+        "item": "minecraft:suspicious_stew",
+        "data": {
+            "Effects": [{
+                    "EffectId": 16,
+                    "EffectDuration": "$ (4800)#i"
+                },
+                {
+                    "EffectId": 18,
+                    "EffectDuration": "$ (6000)#i"
+                }
+            ]
+        }
+    }
+}

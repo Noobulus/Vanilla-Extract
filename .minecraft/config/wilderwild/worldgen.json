@@ -1,4 +1,9 @@
 {
+  "biomeGeneration": {
+    "generateCypressWetlands": true,
+    "generateJellyfishCaves": true,
+    "generateMixedForest": true
+  },
   "biomePlacement": {
     "modifyWindsweptSavannaPlacement": true,
     "modifyJunglePlacement": true,

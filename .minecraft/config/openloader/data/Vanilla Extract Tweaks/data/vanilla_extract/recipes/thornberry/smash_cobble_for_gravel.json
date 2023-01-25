@@ -1,0 +1,12 @@
+{
+    "type": "lychee:block_crushing",
+    "landing_block": {
+        "block": "minecraft:cobblestone"
+    },
+    "post": [
+        {
+            "type": "execute",
+            "command": "fill ~-1 ~-1 ~-1 ~1 ~-1 ~1 gravel replace cobblestone"
+        }
+    ]
+}

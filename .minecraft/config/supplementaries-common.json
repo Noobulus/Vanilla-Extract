@@ -139,7 +139,7 @@
       "spawn_attempts": 15
     },
     "misc": {
-      "red_merchant_spawn_multiplier": 1.0
+      "red_merchant_spawn_multiplier": 0.0
     }
   },
   "tweaks": {

@@ -13,7 +13,7 @@
     "jellyfishSpawnCap": 30
   },
   "warden": {
-    "wardenAttacksInstantly": true,
+    "wardenAttacksImmediately": true,
     "wardenCustomTendrils": true,
     "wardenBedrockSniff": true,
     "wardenDyingAnimation": true,
