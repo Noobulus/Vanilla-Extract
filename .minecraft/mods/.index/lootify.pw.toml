@@ -1,14 +1,14 @@
 name = "Lootify"
-filename = "lootify-0.1.0+1.19.jar"
+filename = "lootify-0.1.1+1.19.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/cpsJaSe5/versions/crMTUsub/lootify-0.1.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/cpsJaSe5/versions/tQQa2OBV/lootify-0.1.1%2B1.19.jar"
 hash-format = "sha512"
-hash = "b7c3c139609655a53feb2cd3a5aa36803a2dcf7cb1a2923bb4168b2314c0acf09fd52a7a3fe24caeec9c5e21d4da348397686bdfbda0a7953d01590ce5f83bfd"
+hash = "d47a4b9b53314365dae181e6524968e2f638575d2ec642afa1d9fab1f1da097685e1523f461a1b0e9eea129953275fc236792401e674afdb25103557182bfd76"
 
 [update]
 [update.modrinth]
 mod-id = "cpsJaSe5"
-version = "crMTUsub"
+version = "tQQa2OBV"

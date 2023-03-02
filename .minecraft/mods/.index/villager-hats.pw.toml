@@ -1,14 +1,14 @@
 name = "Villager Hats"
-filename = "villager-hats-1.4.1.jar"
+filename = "villager-hats-1.4.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/vghf63Ct/versions/1.4.1/villager-hats-1.4.1.jar"
+url = "https://cdn.modrinth.com/data/vghf63Ct/versions/67TVay6W/villager-hats-1.4.3.jar"
 hash-format = "sha512"
-hash = "ebd295beb76a2bc610edcaeb5595415b7373c7410fd65d8162f9aae5560f0793c55b7bc50f3c5dcc9cb16bc6671be466c71552a31a991ac102137d619b98d4ee"
+hash = "2e776a0b56eceafe68183b809262c462d46301a20055436013ee57a17e9b86e3d851ded6a2986090077bb98a8e1f66cde4f273b9a70c5e13de2ad33ca96fee8b"
 
 [update]
 [update.modrinth]
 mod-id = "vghf63Ct"
-version = "HCV3Ncp6"
+version = "67TVay6W"

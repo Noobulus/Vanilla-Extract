@@ -23,6 +23,7 @@
     "villagersAvoidRail": true,
     "villagersAvoidTrapdoor": true,
     "villagersAvoidPowderedSnow": true,
+    "villagersAvoidGlassPanes": true,
     "villagerWanderingFix": true,
     "walkTowardsTaskMaxRunTime": 2400,
     "villagersDontClimb": true,

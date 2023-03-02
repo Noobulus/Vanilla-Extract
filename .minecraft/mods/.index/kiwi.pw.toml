@@ -1,14 +1,14 @@
-name = "Kiwi 🥝"
-filename = "Kiwi-1.19.1-fabric-8.1.2.jar"
+name = "Kiwi Lib"
+filename = "Kiwi-1.19.1-fabric-8.3.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/f4ESvoJk/Kiwi-1.19.1-fabric-8.1.2.jar"
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/MRPbB9Ra/Kiwi-1.19.1-fabric-8.3.3.jar"
 hash-format = "sha512"
-hash = "75525ce2e9f01ac0bcf279108c3d91ce91bbb5d06185853ae2c32a1e7200ff69561aaae2cb829d6447febc4fb42de051fe4ff7f291aac279f69b0fafbe7d07d3"
+hash = "e64f993d4c2f16be625f84a8a7f58601e8e485ad52eb48d6f3d18bccfe9630b422db6e5b0a3b505f29188c3a5c600b8085e0fc897ba38e93e017b04afed3d465"
 
 [update]
 [update.modrinth]
 mod-id = "ufdDoWPd"
-version = "f4ESvoJk"
+version = "MRPbB9Ra"

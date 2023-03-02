@@ -1,0 +1,14 @@
+name = "Dragon Drops Elytra"
+filename = "dragondropselytra-fabric_1.19.2-1.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DPkbo3dg/versions/ZDMiRueu/dragondropselytra-fabric_1.19.2-1.9.jar"
+hash-format = "sha512"
+hash = "eb978dc5f7037b71bc5f4fc90252885c47e931525e4bfef8f339d35b075db56d5a977eddedeb493f8180be98931fa57a248b6735eb592c30d4261bb080f6baf0"
+
+[update]
+[update.modrinth]
+mod-id = "DPkbo3dg"
+version = "ZDMiRueu"

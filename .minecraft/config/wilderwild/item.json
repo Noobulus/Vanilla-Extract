@@ -4,7 +4,8 @@
     "ancientHornLifespan": 300,
     "ancientHornMobDamage": 15,
     "ancientHornPlayerDamage": 22,
-    "ancientHornShattersGlass": false
+    "ancientHornShattersGlass": false,
+    "ancientHornSizeMultiplier": 0.0
   },
   "projectileBreakParticles": true
 }

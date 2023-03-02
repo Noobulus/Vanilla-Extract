@@ -1,14 +1,14 @@
 name = "VillagerConfig"
-filename = "villagerconfig-3.0.5-mc-1.19.jar"
+filename = "villagerconfig-4.0.1+1.19.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/OClpEDe3/versions/3.0.5-mc-1.19/villagerconfig-3.0.5-mc-1.19.jar"
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/XjM0hjz9/villagerconfig-4.0.1%2B1.19.2.jar"
 hash-format = "sha512"
-hash = "ee8c81523b8da84b75a3f81409f3215c269f8e66756c3a8a55f4037613112e12e6cb9ee2942f85fb18ee76966f1de9578e43b6c0fc8c6da77683b00f617133dd"
+hash = "b95a6e2f1e15c090b7e2f4d33b4ebf1a3788de5ecc6aaec5cdc9f42b9b4c064f74225ce2e483624a1985cb1b1448f7a9d6bfb3c7b98a04ae1f3dba65da7c8bee"
 
 [update]
 [update.modrinth]
 mod-id = "OClpEDe3"
-version = "T9ZSfoGw"
+version = "XjM0hjz9"

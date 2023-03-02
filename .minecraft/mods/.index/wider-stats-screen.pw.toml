@@ -1,0 +1,14 @@
+name = "Wider Stats Screen"
+filename = "wider-stats-screen-0.1-beta.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mN1daKfu/versions/SQ93Gjwg/wider-stats-screen-0.1-beta.3.jar"
+hash-format = "sha512"
+hash = "c6696007e489abbcb907c6efdba9d8530a6db4af6bde90f1b39d80530a2948e9763598bb2e0fb2c8db626e48e3a5ecb9c6ba794ccfd81c61380b7d4a273438d2"
+
+[update]
+[update.modrinth]
+mod-id = "mN1daKfu"
+version = "SQ93Gjwg"

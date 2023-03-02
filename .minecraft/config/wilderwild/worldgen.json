@@ -14,5 +14,6 @@
   "dyingTrees": true,
   "fallenLogs": true,
   "wilderWildTreeGen": true,
-  "wilderWildGrassGen": true
+  "wilderWildGrassGen": true,
+  "cypressWitchHuts": true
 }

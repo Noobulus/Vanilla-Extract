@@ -1,14 +1,14 @@
 name = "Reacharound"
-filename = "reacharound+1.19-1.1.1.jar"
+filename = "reacharound+1.19-1.1.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/r3VgI4QN/versions/Qpk954yq/reacharound%2B1.19-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/r3VgI4QN/versions/E8z7QNV3/reacharound%2B1.19-1.1.2.jar"
 hash-format = "sha512"
-hash = "c699c0e78613854dc4fa4b96e1aaceca28f3234859d13c660a139e24254c5b9a10e1126aaa6c51f8504a213c98b1623672e1b8e2575b943b5f20b0f3dd6a1c20"
+hash = "ee332b881a42937cffa6e1f9dcf5b26ec2095a5e75045fb6f527efdfe1f6df50da6beeb02a8c96bdf1321291a5c62f8c89cd5efe26ba1ff3f35d5d4c217e3aec"
 
 [update]
 [update.modrinth]
 mod-id = "r3VgI4QN"
-version = "Qpk954yq"
+version = "E8z7QNV3"

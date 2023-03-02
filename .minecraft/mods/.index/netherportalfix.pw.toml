@@ -1,14 +1,14 @@
 name = "NetherPortalFix"
-filename = "netherportalfix-fabric-1.19-10.0.0.jar"
+filename = "netherportalfix-fabric-1.19-10.0.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/nPZr02ET/versions/10.0.0-fabric/netherportalfix-fabric-1.19-10.0.0.jar"
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/fAtDIamf/netherportalfix-fabric-1.19-10.0.1.jar"
 hash-format = "sha512"
-hash = "e7fa6cb92d9e07ab71be7fbfeed98162abeb733e737736439cf4befba37b6ae2d97b6bf00686ae24d8ebbb491859333d9c327b356653c4e683342e8d7796b9b5"
+hash = "ed4b6b2fcd30c4f4f457a57ded09c078359fd1c51413c50fbec629dd66035fed9079f155bc7766e63f12d370d00798d28b71aebffa2db7f50910d3e2bc77b21a"
 
 [update]
 [update.modrinth]
 mod-id = "nPZr02ET"
-version = "W2GQFVWF"
+version = "fAtDIamf"
